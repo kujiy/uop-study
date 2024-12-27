@@ -1,0 +1,274 @@
+
+Discussion Assignment
+For this assignment write at least 300 words answering the following.
+
+Corporations often “vote with their feet” in terms of doing business where expenses are lowest and revenues are highest. Buying low and selling high is a basic economic formula for success that has motivated international trade in many ways over the centuries.  This is popularly discussed when governments consider tax policies and is also applicable when they also consider the less obvious factor of environmental protections laws. If Mexico has no ban on DDT (a pesticide used in agriculture) and the USA has banned the use (but not the manufacture) of DDT, should a corporation buy land in Mexico, import DDT from the USA, grow larger crops, and export them to the USA?
+What ethical duties does the corporation have to the workers in Mexico, the neighboring landowners, and the USA consumers about the potential dangers of using DDT?
+Is there an ethical duty of DDT manufactures related to their export of DDT to countries that do not ban its use as the USA does?
+Do you agree that environmental protection laws are “less obvious” as suggested above? Why/why not?
+
+
+こんにちはみなさん。金曜日から体調を崩しており勉強に時間を取れていません。今日は会社を早退して休んだ後、この課題に取り組みました。以下は私の考えです。
+
+DDTのリスク
+DDT は、野生生物と人間の健康に有害な影響を与えることが知られている残留性有機汚染物質です。 長期にわたって残留する性質があるため、食物連鎖の中で蓄積され、消費者に害を及ぼし、生態系を混乱させる可能性があります。
+労働者の安全: メキシコの農場労働者は、散布時および収穫時に DDT にさらされる可能性があり、健康上の問題を引き起こす可能性があります。
+消費者の安全: 農薬の使用を知らない米国の消費者は、輸入作物に含まれる DDT 残留物を知らないうちに摂取し、健康を害する可能性があります。米国疾病予防管理センターのデータによると、黒人またはメキシコ系アメリカ人の血液と尿には、DDTを含む有害農薬が白人の５倍検出されています。
+
+企業の倫理的義務
+企業は、その事業に携わるすべての利害関係者に対して責任を負います。
+workers in Mexico: 企業は労働者の健康と安全を最優先に考えなければなりません。これには、DDT への曝露を最小限に抑えるための適切なトレーニングと作業プロセスの提供が含まれます。
+neighboring landowners: 企業は、DDT の使用が近隣の農場や生態系に及ぼす潜在的な影響を考慮する必要があります。流出または風で飛ばされた DDT は近隣の土地を汚染し、近隣住民の生活や環境に影響を及ぼす可能性があります。
+USA consumers : 企業には、その業務について透明性を保ち、生産する食品の安全性を確保する義務があります。企業は、禁止されている農薬を故意に消費者に与えるべきではありません。
+
+DDT製造業者の倫理的義務
+DDT 製造業者にも倫理的義務があります。
+責任ある生産: 環境汚染と労働者の被ばくを最小限に抑えるために、安全で責任ある生産慣行を確保する必要があります。
+輸出規制: 製造業者は有害物質の輸出を避ける必要があります。例え法律が許可していても、危険な製品の輸出は控えるべきです。
+
+環境法はless obviousか
+環境保護法は人間の健康と環境を守るために存在します。企業は経済的要因を優先するかもしれませんが、これらの法律は持続可能な枠組みの中で事業を運営するという明確な倫理的義務を表しています。短期的な利益を優先するために環境規制を無視することは非倫理的であり、長期的な影響を及ぼす可能性があります。
+
+結論
+メキシコでDDTを使用して米国に農作物を輸出するという企業の決定は、いくつかの倫理的懸念を引き起こします。労働者、消費者、環境の健康よりも利益を優先することは倫理的に間違っています。同社とDDT製造業者はどちらも、人間と環境の幸福を優先する持続可能な慣行を採用する責任があります。環境保護法は「それほど明白ではない」のではなく、責任あるビジネス慣行の重要な枠組みを表しています。これらの規制の範囲内で事業を運営し、より安全な代替手段を探すことは、倫理的な行動方針です。
+
+
+--------------------------------------------
+Hello everyone. I have been sick since Friday and have not been able to spend any time studying. I left work early today to rest and work on this assignment. Below are my thoughts.
+
+Risks of DDT
+DDT is a persistent organic pollutant known to be harmful to wildlife and human health. Due to its long-term persistent nature, it can accumulate in the food chain, harm consumers, and disrupt ecosystems(Environmental Protection Agency, 2021).
+Worker Safety: Mexican farm workers can be exposed to DDT during spraying and harvesting, which can cause health problems.
+Consumer Safety: U.S. consumers unaware of pesticide use may unknowingly ingest DDT residues in imported crops, which can be hazardous to their health. According to data from the Centers for Disease Control and Prevention, toxic pesticides, including DDT, are found in the blood and urine of black or Mexican Americans five times more than in whites(The Center for Biological Diversity, n/d).
+
+Ethical Obligations of Businesses
+Businesses have a responsibility to all stakeholders in their operations.
+Workers in Mexico: Companies must give top priority to the health and safety of their workers. This includes providing appropriate training and work processes to minimize exposure to DDT.
+Neighboring Landowners: Companies must consider the potential impact of DDT use on neighboring farms and ecosystems. Spilled or windblown DDT can contaminate neighboring land and impact the livelihoods and environment of nearby residents.
+USA Consumers : Companies have an obligation to be transparent about their operations and to ensure the safety of the food they produce. Companies should not knowingly give prohibited pesticides to consumers.
+
+Ethical obligations of DDT manufacturers
+DDT manufacturers also have ethical obligations.
+Responsible Production: Manufacturers must ensure safe and responsible production practices to minimize environmental contamination and worker exposure.
+Export Controls: Manufacturers must avoid exporting hazardous materials. They should refrain from exporting hazardous products, even if the law allows it.
+
+Are environmental laws less obvious?
+Environmental laws exist to protect human health and the environment. While companies may prioritize economic factors, these laws represent a clear ethical obligation to operate within a sustainable framework. Ignoring environmental regulations in favor of short-term profits is unethical and may have long-term consequences.
+
+Conclusion
+The company's decision to use DDT in Mexico to export crops to the United States raises several ethical concerns. It is ethically wrong to put profits before the health of workers, consumers, and the environment. Both the company and the DDT manufacturer have a responsibility to adopt sustainable practices that prioritize human and environmental well-being. Environmental laws are not “not so obvious” but represent an important framework for responsible business practices. Operating within these regulations and seeking safer alternatives is an ethical course of action.
+
+Reference
+Environmental Protection Agency. (2021). DDT — A Brief History and Status. Retrieved from https://www.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status
+The Center for Biological Diversity. (n.d.). Pesticides and Environmental Injustice. Retrieved on Dec 02, 2024, from https://biologicaldiversity.org/campaigns/pesticides-and-environmental-justice/#
+
+
+DDT - A Brief History and Status
+Development of DDT
+DDT (dichloro-diphenyl-trichloroethane) was developed as the first of the modern synthetic insecticides in the 1940s. It was initially used with great effect to combat malaria, typhus, and the other insect-borne human diseases among both military and civilian populations. It also was effective for insect control in crop and livestock production, institutions, homes, and gardens. DDT's quick success as a pesticide and broad use in the United States and other countries led to the development of resistance by many insect pest species.
+
+Regulation Due to Health and Environmental Effects
+The U.S. Department of Agriculture, the federal agency with responsibility for regulating pesticides before the formation of the U.S. Environmental Protection Agency in 1970, began regulatory actions in the late 1950s and 1960s to prohibit many of DDT's uses because of mounting evidence of the pesticide's declining benefits and environmental and toxicological effects. The publication in 1962 of Rachel Carson's Silent Spring stimulated widespread public concern over the dangers of improper pesticide use and the need for better pesticide controls.
+
+In 1972, EPA issued a cancellation order for DDT based on its adverse environmental effects, such as those to wildlife, as well as its potential human health risks. Since then, studies have continued, and a relationship between DDT exposure and reproductive effects in humans is suspected, based on studies in animals. In addition, some animals exposed to DDT in studies developed liver tumors. As a result, today, DDT is classified as a probable human carcinogen by U.S. and international authorities.
+
+DDT is:
+
+known to be very persistent in the environment,
+will accumulate in fatty tissues, and
+can travel long distances in the upper atmosphere.
+After the use of DDT was discontinued in the United States, its concentration in the environment and animals has decreased, but because of its persistence, residues of concern from historical use still remain.
+
+Current Status
+Since 1996, EPA has been participating in international negotiations to control the use of DDT and other persistent organic pollutants used around the world. Under the auspices of the United Nations Environment Programme, countries joined together and negotiated a treaty to enact global bans or restrictions on persistent organic pollutants (POPs), a group that includes DDT. This treaty is known as the Stockholm Convention on POPs. The Convention includes a limited exemption for the use of DDT to control mosquitoes that transmit the microbe that causes malaria - a disease that still kills millions of people worldwide.
+
+In September 2006, the World Health Organization (WHO) declared its support for the indoor use of DDT in African countries where malaria remains a major health problem, citing that benefits of the pesticide outweigh the health and environmental risks. The WHO position is consistent with the Stockholm Convention on POPs, which bans DDT for all uses except for malaria control.
+
+DDT is one of 12 pesticides recommended by the WHO for indoor residual spray programs. It is up to individual countries to decide whether or not to use DDT. EPA works with other agencies and countries to advise them on how DDT programs are developed and monitored, with the goal that DDT be used only within the context of programs referred to as Integrated Vector Management.  IVM is a decision-making process for use of resources to yield the best possible results in vector control, and that it be kept out of agricultural sectors.
+
+
+
+# Reference 2
+Biological Impact and Ethical Implications of Pesticide Use: A Short
+Module for Upper-Division-Undergraduate Biochemistry Courses
+Lisa M. Ryno*,†,§ and Cheryl Cottine‡,§
+†Department of Chemistry and Biochemistry, Oberlin College, 119 Woodland Street A263, Oberlin, Ohio 44074, United States ‡Department of Religion, Oberlin College, 10 North Professor Street, Oberlin, Ohio 44074, United States
+*S Supporting Information
+Received: Revised:
+May 21, 2018 July 18, 2018
+DOI: 10.1021/acs.jchemed.8b00379 J. Chem. Educ. XXXX, XXX, XXX−XXX
+ABSTRACT: In the Fall of 2015 and in the 2016−2017 academic year, we conducted a two-week, team-taught, interdisciplinary module concurrently in an advanced biochemistry course, offered in the Chemistry and Biochemistry Department, and a sophomore-level environmental-ethics course, offered in the Religion Department, at Oberlin College. The focus of the unit was the mechanism of pesticides and the ethics of their use domestically and in agriculture, using Silent Spring by Rachel Carson as a primary text. The general question our students explored was: How does understanding the chemistry of various pesticides impact biological systems and larger preservation and conversation practices? Posing the question in this manner signaled to students that to adequately grapple with pressing environmental concerns, we must utilize an integrated approach and response. Students in both classes were exposed to chemical and biological mechanisms of different types of pesticides at their level of assumed knowledge and learned about several ethical theories that they then applied to real-world case studies. The two instructors (a biochemist and an ethicist) visited each other’s classrooms and taught lectures relevant to their specialties (e.g., the biochemist taught a lecture on pesticide mechanisms of action). Students completed a reflection assignment about the unit as well as a research paper about a pesticide of their choice, which demonstrated their knowledge about the pesticide’s mechanism of action and explored the ethics of that pesticide’s use. We believe this module is easily adaptable to any biochemistry or environmental chemistry course. We provide a detailed description of the module and our assessment of its impact on students’ ability to apply general ethical theories to complex societal issues.
+KEYWORDS: Ethics, Biochemistry, Upper-Division Undergraduate, Interdisciplinary/Multidisciplinary, Problem Solving/Decision Making
+Downloaded via OBERLIN COLG & CONSERVATORY on August 21, 2018 at 13:07:30 (UTC). See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+ Journal of Chemical Education
+Article
+  departments of Colby College, respectively, who advocated for ethics to be taught in science courses in the early 1980s), note that “[t]he goals of an ethics course are to learn how to give reasons for one’s views and what sorts of reasons are in the final analysis acceptable.”10 With respect to pesticide use and development, students not only considered the effectiveness of a particular chemical compound on its intended target but also the impact the pesticide had on different ecosystems as well as on those who actually produce the product, both physically and financially. When students considered both the wider implications of pesticide use as well as its means of production, they naturally began asking different questions than the ones they would have asked if addressing the issue from a purely scientific framework.
+We chose Rachel Carson’s book Silent Spring as the primary text for the module.11 A common text for environment-focused chemistry and humanities courses, Silent Spring offered students a snapshot into the mid-20th century taken by an individual who was both perceptive about the influence of chemicals on the environment and eloquent in her ability to convey science to the average person. Importantly, we dissected the Silent Spring text both as concerned citizens and as scientists, critiquing the effectiveness and scientific accuracy of Carson’s arguments. We used case studies throughout the module in order to introduce ethical theories and apply them in practical situations, a technique that has been employed previously in chemistry classrooms with success.12,13 An example case study discussed in this report examined the use of the pesticide 1,2-dibromo-3-chloropro- pane (DBCP, Nemagon) on Costa Rican banana plantations in the second half of the 20th century as a way to expose students to the use of pesticides banned in the United States since the reception of Silent Spring and the ethical dilemmas that arise when U.S. companies use foreign labor and goods.14
+The two-week module (four 75 min class periods) we describe herein was offered in the Fall 2015 and 2016 semesters in an upper-division biochemistry course and in the Fall 2015 and Spring 2017 semesters in an environmental- ethics course hosted in the Religion Department at Oberlin College, a small liberal-arts institution. This interdisciplinary unit was taught to two different populations of students, approximately half of whom were entrenched in the human- ities, and the other half focused on the natural sciences. Silent Spring, alongside other historical excerpts, case studies, textbooks, scientific research articles, and even pesticide advertisements, served several purposes. The combination of primary and secondary literature and peer-reviewed scientific evidence (1) exposed students to the mechanisms of small- molecule pesticides in biological systems, (2) provided students with the opportunity to explore and discuss the ethical implications and broader societal and ethical questions posed by the use of these pesticides, and (3) helped students foster awareness and curiosity about humanity’s impact on the natural world. We assessed students’ knowledge about pesticides and ethical theories in several ways. First, students in both courses were required to write a substantial research paper on a pesticide that was utilized in the United States after the reception of Silent Spring (e.g., used after 1962), describing the mechanism of action and applying an ethical theory to justify the use of the pesticide. Second, students in the biochemistry course were given short answer and essay questions on a midterm and final exam that tested their knowledge about molecular mechanisms of pesticides and an
+ethical theory discussed in class. The instructors utilized a short reflection assignment, due shortly after the completion of the module, and end-of-semester evaluations to assess the success of the module as a whole.
+Although many chemistry courses incorporate discussions and examples that have ethical and environmental content, this is the first description, to our knowledge, of a brief module that operates as an interdisciplinary, team-taught, and discussion- based unit focusing on the mechanisms of action and ethical implications of pesticides in the environment. Although the success of this module is not necessarily dependent on having two instructors, one an expert in ethics (C.C.) and the other an expert in biochemistry (L.M.R), we believe that this interdisciplinary pairing added additional depth to the module and demonstrated the fruitful nature of collaboration between a humanist and scientist. We demonstrated to students that a question, in this case, whether the use of pesticides is safe and justified, can be examined from multiple viewpoints, and by working together, we are able to generate a comprehensive and informed assessment of that problem. We believe this module, described below, can be easily adopted and adapted by any instructor interested in adding an ethical and environmental component to their current chemistry courses.
+■
+MODULE DESCRIPTION
+We taught this module to two separate groups of students: (1) upper-division biochemistry students with a considerable foundation of chemical and biological knowledge and (2) students taking an environmental-ethics course in the Religion Department, many of whom had no undergraduate science background. Although we taught a majority of the module identically to both student groups, we differentially emphasized the level of detail of the chemical and biological mechanisms depending on the audience, allowing for more relevant discussion and evaluation for each class. An upper-division biochemistry course is well suited to incorporate a module of this nature, as the content of the course is more flexible than introductory chemistry courses, and there can be considerable overlap with conventionally discussed topics. For example, an instructor can introduce gated ion channels by discussing the mechanism of action of dichlorodiphenyltrichloroethane (DDT), which binds to the membrane-bound portions of voltage-gated sodium channels, disrupting their normal function by keeping them open and constantly propagating a neuromuscular signal.15 Below we describe the timeline of topics discussed in the module.
+We used Silent Spring to guide the topics discussed within this module (Table 1). We began the module with a brief history of pesticide use throughout the world and, in particular, the United States since World War II, taking approximately half of the class period (35 min of a 75 min class) to introduce students to the material via a PowerPoint presentation.
+Table 1. Course Schedule with Assigned Readings
+  Day Topic Covered
+ Silent Spring Assigned Reading
+B
+1 2
+3 4
+History of Pesticides
+Mechanisms of Action of Pesticides
+Exploring the Ethics of Pesticide Use
+Pesticides: Looking Forward
+Chapters 1−6 Chapters 12−14
+Chapters 8−9, skim chapters 7− 11
+Chapter 17
+DOI: 10.1021/acs.jchemed.8b00379 J. Chem. Educ. XXXX, XXX, XXX−XXX
+
+ Journal of Chemical Education
+Article
+  We utilized secondary texts, such as Frederick Rowe Davis’s Banned16 and The Excellent Powder: DDT’s Political and Scientific History by Richard Tren and Donald Roberts,17 to help provide context to the use of pesticides in the second half of the 20th century. Students learned about five classes of pesticides: heavy metals, chlorinated hydrocarbons, organo- phosphates, synthetic and extracted pyrethroids, and neon- icotinoids. Students spent the second half of the class period in group discussion of Carson’s text and questions that introduced new terminology and concepts with which students may not have been familiar (Box 1). From the outset, we
+namely, the synthesis of adenosine triphosphate (ATP) by oxidative phosphorylation. The instructor introduced recent research on how DDT and other pesticides impact mammals and other wildlife, including evidence of endocrine-system disruption in humans.19−22
+Additionally, students had the opportunity to critically examine some of the material presented in Silent Spring. We took time to emphasize that although this book has been in publication for over 50 years, it was never peer-reviewed like scientific manuscripts, and although Carson did cite many peer-reviewed publications in Silent Spring, the book has factual errors and now out-of-date explanations. An example of a factual error that we discuss in class is Carson’s explanation of the mechanism of action of the herbicide 2,4-dichlorophenoxy- acetic acid (2,4-D) on mammalian life. Although Carson correctly discusses the impact of 2,4-D on the production of both sugars and nitrates in certain plant life, her discussion of how those nitrates, which turn into nitrites in mammalian systems, impact oxygen transport by hemoglobin is incorrect. Carson explains: “nitrites act on the blood pigment to form a chocolate-brown substance in which oxygen is so firmly held that it cannot take part in respiration [...].”11 Carson is referring to the impact of nitrite on hemoglobin, the protein that is responsible for the transport and release of oxygen. Nitrite certainly binds to hemoglobin and interferes with oxygen transport, but it does so in a way that stabilizes deoxygenated hemoglobin, which is observed as the “chocolate- brown” color, not by stabilizing the oxygenated form, as Carson suggests.23,24 The Science paper Carson cites does correctly explain the mechanism by which nitrites stabilize the methemoglobin (deoxygenated) form of hemoglobin; how- ever, this is not relayed in the text of Silent Spring.25 The biochemistry students had already learned about hemoglobin earlier in the semester, and immediately identified the error when the section on 2,4-D was discussed. The environmental- ethics students were given more background and context about why Carson’s description about how nitrates were impacting hemoglobin was incorrect. Although it seems like a small point, this example highlights that Silent Spring is a fact-filled book different from a textbook or peer-reviewed manuscript. This serves to remind students to be critical, especially when the message of a book resonates with their own ideas and opinions.
+The third day of the module was devoted to considering the ethics of pesticide use, and both classes received lectures from an ethicist (C.C.). As with the biochemistry lecture, the ethics lecture was tailored to the specific knowledge base of the students involved. For the lecture delivered to the biochemistry class, no background knowledge in ethics was assumed. The lecture began by asking the students to define ethics and to discuss the question: What is the aim of science? This broad opening discussion encouraged students to reflect on some of the values they brought to their study as well as on the larger motivating factors driving their various inquiries. Broader questions focusing on issues of motivation can understandably be overshadowed as students focus on the complexities of learning a scientific discipline, but these questions are imperative to the overall health and well-being of humans and the environment alike, as Carson’s book reminds them.
+The majority of the ethics lecture was devoted to introducing students to four major ethical theories: deontol- ogy, consequentialism, virtue ethics, and the rule of double effect.26 Students then had the opportunity to see how each of the theories applied to a case study. We asked students to
+DOI: 10.1021/acs.jchemed.8b00379 J. Chem. Educ. XXXX, XXX, XXX−XXX
+   Box 1. Selected Student Discussion Questions
+Example Discussion Questions:
+Why do we need insecticides?
+What is different about synthetic (as compared to previous)
+pesticides?
+What does it mean for chemicals to concentrate in the food
+chain? Why does Carson raise this issue as being important? What is the intended target of the pesticide 2,4-D? What makes it different than the other compounds Carson
+discusses?
+  encouraged students to examine the impact a pesticide has on both human and nonhuman entities by considering pesticide solubility and introduced students to concepts like bioaccu- mulation (the accumulation of a substance in an organism over time) and biomagnification (the increasing concentration of a substance in the tissues of organisms at successively higher levels of the food chain). We have included selected discussion questions from each day in Supporting Document 1 to facilitate the adoption this module.
+Students spent the second day of the module exploring the mechanism of action of several types of pesticides, including chlorinated hydrocarbons (specifically DDT, a primary focus in Silent Spring), organophosphates, and neonicotinoids. The biochemist (L.M.R.) taught this portion of the module to both classes and tailored the lecture to the background of the class. Both classes learned the basics of neuronal function by learning how an impulse is conducted and what occurs in the synaptic cleft, the space between two neighboring neurons.15 We focused on how pesticides can disrupt typical neuronal function in different ways depending on their chemical structure. For example, DDT, which is a fairly hydrophobic molecule, binds to a sodium channel at a location deep in the lipid bilayer, stabilizing the channel’s open conformation and allowing sodium ions to continue to enter the cell, potentiating the impulse.15 In the upper-division biochemistry course, the instructor was able to assume the class had knowledge about acyl-substitution reactions and serine proteases when discus- sing the mechanism of action of organophosphate pesticides and how they inhibit acetylcholinesterase enzymes (Figure 1A).18 In the environmental-ethics course, the same topic was introduced using a simple schematic to demonstrate how the pesticide physically interacts with the enzyme and blocks the area of the enzyme that needs to be accessible for its function (Figure 1B).
+This portion of the module also used Silent Spring as a primary reference, and students engaged in small-group discussions to dissect Carson’s explanation of how DDT was killing mammalian life. Students learned that Carson emphasized the disruption of the energy-production process,
+C
+
+Journal of Chemical Education     Article
+  Figure 1. Acetylcholinesterase inhibition by organophosphate pesticides. (A) Mechanism of inhibition of active serine residue by organophosphate. (B) Scheme of enzyme inhibition. LG, leaving group.
+ identify the stakeholders, the values at play for each, and what each party had at stake in the case. Then, students applied each ethical theory to the case, identifying the facts and questions each ethical framework would deem most relevant for determining the ethical course of action. Applying different ethical frameworks to a case highlighted the complexity that arises when different sets of values and questions lead to dramatically different conclusions for an ethical course of action.
+The final day of the module focused on alternatives to the chemical control of insects and a critical examination of the reception of Silent Spring and ended with a case study, worked on in groups, which tied the module together. In the lecture portion of the class, students learned about sterile-insect techniques, including methods of irradiation and genetic modification. In the Fall 2016 class, there was a timeliness to the recent outbreak of Zika virus being attributed to mosquitos, and we had the opportunity to discuss how scientists were working to genetically modify mosquitos to curb the transmission of the virus, and how that was being received by the communities most affected by the Zika virus outbreak.27,28
+We also spent time discussing the reactions of people, from average citizens to academic and industrial scientists, to Silent Spring and Rachel Carson, and how some of those responses
+D
+shaped the formation of the Environmental Protection Agency. We used an article in the New York Times that was published during the 50th anniversary of the publication of Silent Spring to give a historical perspective of Carson’s interactions with the public, politicians, and even the chemical industry.29 We also used a book review published in Chemical and Engineering News in 1962 titled “Silence, Miss Carson”, authored by Professor William Darby, an esteemed biochemist and member of the National Academy of Sciences, which was especially critical of Carson’s use of literary devices and charged language to “aggravate unjustifiably [the reader’s] own neurotic anxiety,” and ultimately said “this book should be ignored.”30 Despite criticism, some founded and some baseless, Carson testified before a U.S. Senate subcommittee in the summer of 1963, less than a year before her death, to argue against aerial spraying and for the rights of the private citizen and their knowledge of what chemicals were being used on their property. As we studied Silent Spring, we had the luxury of over 50 years of analysis, additional experimentation, and implemented policy to evaluate the importance of the book and Carson’s legacy. Students reported in evaluations that they appreciated a holistic view of how the book was received at the time and made note of the parallels they see currently with the fossil-fuel industry and climate change.
+DOI: 10.1021/acs.jchemed.8b00379 J. Chem. Educ. XXXX, XXX, XXX−XXX
+
+ Journal of Chemical Education
+Article
+  The module ended with a case study about the use of the pesticide 1,2-dichloro-3-bromopropane (DCBP, Nemagon) in Costa Rica.14 DCBP is a nematicide that was used on fruit plantations in Central America until the mid-1980s and is known to cause organ damage and male infertility.31 Students worked in groups of three or four to learn about DCBP, its use in the 1970s and 1980s in Costa Rica and Central America, and in particular the role of U.S. chemical and fruit companies in the distribution and use of DCBP on Costa Rican banana plantations. Students put themselves in the shoes of each one of the stakeholders (e.g., Dow Chemical Company, plantation workers, the Costa Rican government, the environment, etc.) and discussed whether or not the use of the pesticide was ethical, and whether or not workers should receive compensation from the chemical and fruit companies for any maladies they might have as a result of their exposure to the pesticide. We asked students to think about the ethical implications of transnational chemical corporations continuing to produce and export DCBP to countries with fewer environmental and occupational regulations.31 Although many Oberlin students are environmentally conscious, only a few had heard about DCBP prior to this case study. The shock and dismay that many students felt when learning about the use of this pesticide on fruit (bananas in particular) was palpable. A case like this that draws a visceral reaction provided a valuable teaching moment, as we encouraged students to note their discomfort with the practice described and then provide ethical and scientific justifications for why the practice seemed morally abhorrent, even if it was legally and economically sound. Although many students found that making ethical arguments against the use of DCBP came naturally, we also implored students to make an argument, using both the science and ethical theory, for how it could be morally permissible for a company to use the pesticide on its produce operations. Although harder to do, we found that this exercise encouraged students to deeply consider the issue from a different angle, thus ultimately, in many instances, enabling them to more thoroughly defend their conclusions about why the practice was morally questionable.
+During the Fall of 2015, the first iteration of the module, both classes met during the same semester, which provided a unique opportunity for the students in each class to engage one another. We required students to attend either a lunch meeting or an evening seminar given by a scholar of environmental ethics and strongly encouraged students to attend both. At these events we provided food, discussion questions, as well as time and space for students to mingle. During the lunchtime meeting, we requested students form small groups with students represented from both classes wherein they discussed Silent Spring, the DCBP case study, and the use of pesticides in agriculture internationally and domestically. Instructors moved around the room and joined conversations with each group and, during the last 10 min of the period, brought the group back together as a whole to discuss some of the broader questions about Silent Spring. During this semester, the instructors also invited Professor Lisa Sideris from Indiana University to campus, a prominent scholar of environmental ethics and a Rachel Carson specialist. Sideris attended one of the biochemistry classes, participated in the conversation surrounding the DCBP case study, and delivered a lively lecture that broadly discussed the intersection of science and religion. Although we recognize that bringing in outside
+E
+speakers is funding-dependent, we found the seminar greatly enhanced the conversation between the two classes.
+Students who took our classes during the 2016−2017 academic year met during different semesters and therefore did not have the ability to meet together in groups outside of class. Interestingly, in the reflection assignment, discussed below, students mentioned that they had heard about the mixed- group discussions of the previous year, noted that they would have enjoyed having more opportunities for interdisciplinary interactions, and suggested the addition of outside discussion ■opportunities in future iterations of the module.
+STUDENT ASSESSMENT
+The primary mechanism of the student assessment for this unit was a 1500−2000-word research paper exploring a pesticide used since the reception of Silent Spring. For the biochemistry course, this research paper was worth approximately 10% of their final grade. The students had the freedom to choose a pesticide to study that was of interest to them. Although some students chose common pesticides used in the United States like glyphosate (Round Up) and imidacloprid (a neonicoti- noid), others chose to explore genetically modified crops (Bt toxin); pesticides used in countries other than the United States, like the use of dieldrin in Brazil; and pesticides that are marketed as “less toxic”, like neem oil. Students explored the mechanism of the pesticide; how, where and when it is used; the impact of the pesticide on unintended targets (flora and fauna); and the ethical implications of using the pesticide (Supporting Document 2). Students chose an ethical theory to frame their analysis of whether or not they thought using the pesticide was justified. Not surprisingly, many students argued that their pesticide should no longer be used or should be used sparingly under tightly controlled conditions, ensuring workers all had appropriate personal-protective equipment.
+In the biochemistry course, students also had a portion of a midterm exam and final exam (approximately 7% of their final grade) dedicated to answering questions about this unit. These questions included explaining the mechanisms of action of different classes of pesticides, specific questions about the DCBP case study, and questions with an ethics component. An example ethics question gave information about the use of DDT in South Africa, which banned DDT temporarily in 1996 and saw a 600% increase in malaria,32 and asked students to decide whether the use of DDT in South Africa was ethical using the rule of double effect, which has four rules to guide decision making.26 This question required students to draw on their knowledge of how DDT impacts humans and the environment, a subject that was thoroughly covered in class, and also required them to remember and appropriately apply the tenets of the rule of double effect. Several additional exam questions can be found in Supporting Document 3.
+We required students to submit a reflection assignment at the end of the module, which was graded on the basis of completion only. In this assignment, we asked students to consider how the material covered in the module connected to their experiences outside of the classroom as well as their overall assessment of the unit: what worked and what could use improvement. The responses received reflected the importance of interdisciplinary units and the inclusion and consideration of ethics when teaching science courses. The students in the biochemistry course found the humanist perspective enriching, as evidenced by selected responses below:
+DOI: 10.1021/acs.jchemed.8b00379 J. Chem. Educ. XXXX, XXX, XXX−XXX
+
+Journal of Chemical Education
+Article
+“Rarely has the question ofwell we can now synthesize all of these compounds, but should we?been posed in my classes. This unit has really helped me to think critically about my role as a future scientist.”
+“Furthermore, our nuanced discussion of environmental ethics was an important reminder that science does not exist in a vacuum and we must interrogate how the knowledge we are learning is inherently political.”
+Students in the environmental-ethics class discussed the importance of learning the science behind broad ethical problems in the reflection assignments. A few excerpts from their responses are highlighted below:
+“I’ve found learning about pesticide mechanisms and their ethical implications enriching to my learning experience [...] by gaining specific understanding of the dynamics and mecha- nisms at work in an environmental system, actors can offer informed opinions about what ethical action might look like, in concrete terms.”
+“I always knew pesticides were harmful, but never knew the specific extent of damage, contamination and about bio- accumulation they caused. Bioaccumulation in particular was unknown to me before. Taking this class really expanded and strengthened my understanding of pesticides, and the different ethical views to approaching and viewing pesticides.”
+Suggested improvements include expanding the unit beyond two weeks, having more time dedicated to learning about ethics, and introduction and explanation of the mechanisms of a greater number of currently used pesticides in the United States. In the second iteration of the module, during the academic year of 2016−2017, we incorporated the mecha- nisms for a few more pesticides and discussed in greater depth newer technologies, including using the genetic-modification sterile-insect technique through the creation of repressible, dominant lethal mutations (RIDL), where the insects are not actually sterile but carry a genetic mutation that causes lethality to wild insects of that particular species.33
+■ CONCLUSIONS AND FUTURE DIRECTIONS
+This module provided students with the tools to analyze complicated biochemical mechanisms of synthetic pesticides and their impact on the environment through the lens of both the scientist and the ethicist. The interdisciplinary theme of the module, which combined detailed chemical mechanisms with expansive questions about moral philosophy, enriched the experience of the students and instructors alike. Our goal is to eventually expand this module into a semester-long course on the ethical use of chemicals, which would include a much longer unit on pesticides as well as a unit on pharmaceuticals. We also believe this interdisciplinary working relationship was fruitful and are eager to jointly teach similarly structured units on other topics, including medical ethics and biomedical- research ethics. By teaching ethical theories in the context of popular environmental and societal issues, we believe our students will be better equipped to extrapolate their knowledge of ethics to other scientific and cultural issues that they will undoubtedly face as engaged citizens of the world.
+
+
+
+
+
+
+
+
+
+
+# Reference 3
+Pesticides and Environmental Injustice
+The peer-reviewed study Pesticides and Environmental Injustice in the USA: Root Causes, Current Regulatory Reinforcement and a Path Forward (2022) finds that Black, Indigenous and people of color and low-income communities shoulder a disproportionate burden of the harms caused by pesticides in the United States.
+
+The study found widespread evidence of greater pesticide exposure and harm in communities of color and low-income communities, both in residential and workplace settings, and concludes that these disparities exist in both rural and urban settings and occur throughout the lifecycle of pesticides, from manufacture to use. The study also finds that the disproportionate pesticide exposure and harms to these communities are being perpetuated by practices, policies, regulations and laws that are still on the books. It goes on to outline actions regulators can take right now to right these wrongs.
+
+The study is the first-ever comprehensive assessment of U.S. disparities in pesticide protections and oversight. Published in BMC Public Health, it was coauthored by researchers at Historically Black Colleges and Universities and farmworker, racial justice and conservation groups.
+
+Press release
+The study
+
+What We Found
+Disproportionate exposure: Twelve out of 14 biomarkers for harmful pesticide exposure tracked in a representative sample of the U.S. population over the past 20 years — including for DDT and several organophosphates like chlorpyrifos — were found in the blood and urine of Black or Mexican Americans at average levels as much as five times higher than in whites, according to the authors’ analysis of U.S. Centers for Disease Control data.
+
+Weak farmworker protections: An estimated 10,000 to 20,000 predominately Latinx agricultural workers experience acute illness each year due to pesticide exposure, according to an EPA analysis, yet farmworkers continue to be excluded from basic pesticide protections provided to the general public.
+
+Lax enforcement: For the most recent five years that data are available, just over 1% of pesticide-using agricultural operations were inspected for violations of basic worker protections each year, despite the fact that violations were found at nearly half of inspected facilities. Enforcement actions were taken against only 19% of violators.
+
+Unequal risks: People with low incomes are more likely to live near the 31 pesticide manufacturing facilities that are in current violation of bedrock environmental laws like the Clean Air Act and Clean Water Act. In California, Louisiana, Georgia, South Carolina, Tennessee, Arkansas and Missouri, people of color make up about 38% of the population, but they make up 63% of the population near these pesticide facilities.
+
+Poisonous housing: Residential use of, and harm from, pesticides is often heavier in urban and low-income public housing. For example, 80% of such facilities in New York state applied pesticides inside apartments and in common areas on a regular basis. And 30% of pregnant African American and Dominican women in New York City had at least eight pesticides detected in a home air-monitoring study; 83% were found to have at least one pesticide in umbilical cord samples.
+
+Exporting harm: The United States continues to allow pesticides banned within U.S. borders to be manufactured here and exported to other countries. Between 2015 and 2019, the U.S. exported neurotoxic organophosphate and carbamate pesticides banned here to 42 countries. More than 80% of the importing countries are considered “low-to-middle income” and eligible for official financial development and welfare assistance from the World Bank and international organizations; 78% are estimated to have over 30% of their workforce poisoned by pesticides each year.
+
+Why It Matters
+Harms From Pesticides Are Often Irreversible
+Pesticides are chemicals designed to kill living beings. They are poisons that can have serious consequences for people who are exposed to them. These consequences can include chronic disease, loss of quality of life, and even death.
+Such harms don’t affect everyone equally; they often segregate based on the level of exposure. Higher exposures are more likely to lead to harms for many pesticides. Thus the societal costs of pesticide use are often borne by those with the highest exposures.
+
+These Disparities Are Not an Accident
+The cards didn’t fall this way by accident — for centuries U.S. institutions have put policies in place and encouraged practices that stacked the deck against Black, Indigenous and communities of color.
+
+Ever since the colonization and occupation of Indigenous lands in North America by European settlers, structures of racism and class discrimination have been consistently erected and persist to this day. The resulting oppression has led to significant disparities in exposure to many pollutants, including pesticides. It’s well documented that much of this country’s wealth has been built on the backs of enslaved people and immigrant laborers. In practice that has meant people of color have routinely shouldered the greatest burden when it comes to the often-dangerous jobs required of the nation’s agricultural workers. That reality continues to inequitably expose farmworkers — 83% of whom identify as Hispanic or Latino — to the inevitable risks stemming from the fact that 90% of all pesticide use is in agriculture.
+
+And like many communities of color, those workers and their families are likely to face greater risks from pesticides where they live, as well as where they work. It starts with housing discrimination institutionalized through racist zoning and lending practices that have barred generations of people from homeownership. Discriminatory practices have segregated those communities into underserved areas receiving much lower levels of economic and social investment than white communities. The resulting substandard housing structures and overcrowded public and low-income housing conditions have prompted routine use of dangerous pesticides as a short-term fix for chronic pest problems.
+
+Even the manufacture of pesticides and their toxic waste byproducts disproportionately exposes those who live near these facilities — overwhelmingly low-income people of color.
+
+From cradle to grave, pesticides disproportionately harm these communities. And that won’t change without a concerted effort by regulatory agencies. With the Biden administration’s promise to prioritize environmental justice, we’re hopeful that these pesticide exposure issues can begin to be addressed.
+
+What Can We Do About It?
+Dismantling structural racism and classism in the United States will take considerable time and require levels of government and societal participation that, unfortunately, continue to elude us. Until our country addresses that larger, societal challenge, however, there are numerous steps our regulatory institutions can take to ensure that communities of color are not excessively exposed to pesticides.
+
+The first step is to implement what’s known as the “precautionary principle” in the United States, which is in place across Europe and in many other countries. This principle shifts the burden of proof that an activity is safe from aggrieved individuals to industry, empowering regulators to act to prevent harm in the face of any uncertainty of a product’s safety and urges meaningful exploration and implementation of pollution reduction and other less harmful alternatives. However, in the United States, many chemicals are currently considered safe until proven otherwise. There is truly a moral imperative to rectify this broader public health and civil rights issue.
+
+But even in the absence of such a paradigm shift, this study concludes that U.S. regulators can take effective action now to alleviate some of the disproportionate suffering.
+
+1. Eliminate or Reduce the Pesticide Safety Double Standard
+
+Current pesticide law in the United States has two different safety standards to protect people from pesticides — one afforded to the general public and a less protective standard that covers people exposed to pesticides occupationally. Given the segregation of agricultural labor, this is a major environmental justice problem. There are multiple actions the Environmental Protection Agency and Congress can take right now to eliminate or reduce the double standard outlined in the report.
+
+2. Implement a System to Adequately Monitor and Account for Harms to Environmental Justice Communities
+
+The federal government does not have a nationwide system in place to compile and monitor the many thousands of pesticide incidents that occur every year. And even when the EPA does get reports, it often ignores them, since there are no triggers to force action. Current EPA practice is to ignore epidemiological studies — studies that monitor real people exposed to pesticides in the real world — that can give the agency vital information about how pesticides affect the health of different human populations. Instead the EPA relies solely on industry-generated studies conducted on lab animals. Without reference to epidemiological research or surveillance of pesticide harm, there’s no way to quickly determine whether a pesticide approval has been made in error or should be reconsidered.
+
+Along with developing a nationwide monitoring system for pesticide harm and utilizing relevant epidemiological studies, the federal government must also address the barriers that lead to the current underreporting of pesticide incidents to state agencies, such as the lack of reporting requirements for employers, lack of clinician training, and inability to report anonymously.
+
+3. Strengthen Worker Protections
+
+Medical monitoring of those who work occupationally with some pesticides is required by some states but not federally mandated. It is federally mandated for many occupations involving close work with other dangerous chemicals. The EPA can use its current authority to require pesticide companies to create a test capable of confirming pesticide overexposure and require this testing when working with any pesticide implicated in worker harm.
+The majority of farmworkers have some difficulty reading the English language, yet English is the only language required on pesticide labels. The EPA has the authority to require labels be provided in Spanish and any other language needed to ensure that workers have access to the use instructions. The only thing stopping it is a lack of willingness to require the pesticide companies to include these labels.
+
+4. Reduce Unintended Pesticide Harms
+
+Pesticide approvals are often made based on assumed compliance with complicated directions and use of protective equipment. The EPA must account for the practicality of a diverse array of pesticide users actually complying with these complex directions. If the safety measures put in place to prevent harm to pesticide users cannot be reasonably anticipated to be followed, then those safety measures cannot be used to justify the approval of a harmful pesticide.
+
+In addition, the EPA must enforce all legally mandated protections for farmworkers in the Worker Protection Standard. This does not happen now, leaving workers vulnerable to illegal activities that can result in significant harm.
+
+5. Adequately Protect Those Most Vulnerable to Pesticide Harm: Children
+
+The EPA has discretion under current law to implement a children’s safety factor, which essentially reduces the level of a pesticide that is considered safe for children by tenfold. This is meant to account for the fact that children are more susceptible to the harms from pesticides — harms that are often irreversible. The EPA should fully incorporate this safety buffer for all pesticides when analyzing harm to children.
+
+6. Prohibit Export of Unregistered Pesticides to Other Countries
+
+The United States currently allows the manufacture and export of pesticides that have been banned here; most of them end up in developing countries that have high incidence of pesticide poisoning. This not only perpetuates the cycle of rich countries profiting from the misfortune of marginalized ones, but also further exposes communities that live near these U.S. manufacturing facilities to poisons our country has already deemed too dangerous for use. This practice must stop. If a pesticide is off limits here, we should not be providing it to countries that often have fewer regulatory protections than we do.
+
+7. Assess and Rectify Regulatory Capture Within the EPA Pesticide Office
+
+The EPA’s pesticide office is plagued by an enormous amount of influence from the chemical industry, the very industry it’s charged with regulating. This creates an agency culture that is directly at odds with principles of scientific integrity and environmental justice. The EPA must commit to a third-party audit by the National Research Council or Government Accountability Office of the degree to which its operating procedures and management practices allow for undue industry influence and what effects that has on environmental justice communities. Strategies to effectively separate the regulators from the regulated industries could be acted upon in a manner that would benefit Black, Indigenous and low-income communities and, by extension, the broader public.
+
+
+

@@ -1,0 +1,173 @@
+Discussion Assignment
+For this assignment write at least 300 words answering the following.
+
+Oversimplifying the case of Enron and Arthur Andersen, Enron was using some accounting practices that were questionable. Because Arthur Andersen was an independent auditor, they were responsible for reporting any questionable accounting practices might be risky to the shareholders of Enron. The Security and Exchange Commission was responsible for requiring and publishing accurate information about Enron's accounting information. In the end, a few Enron employees went to jail, and Arthur Andersen stopped doing business under that name.
+
+Identify what you consider any conflicts of interest in the case of Enron and Arthur Andersen.
+What could have been done to avoid the conflicts of interest you identified?
+How would you change the laws to correct the problems that came up in the Enron and Arthur Andersen case?
+Explore how Enron and Arthur Andersen might have been encouraged to act ethically other than direct legal pressures.
+To what extent (if any) should sustainability concerns and issues be incorporated in accounting analyses?
+When (if ever) should organizational decisions with sustainability-related impacts and significant associated cost-implications (savings or expenditures) be shared with shareholders?
+
+-----------
+Identify what you consider any conflicts of interest in the case of Enron and Arthur Andersen.
+
+
+ A conflict of interest is when a person or organization has two sides, and each personality has a benefit and a detriment. For example, there is a school teacher who is passionate about football. As an educator, that teacher is expected to improve the academic performance of his students. Still, as a football coach, he is expected to improve the football skills of his students. When students are required to miss class to compete in a tournament, his responsibilities as educators and football coaches conflict. In this example, competing in the tournament is to his benefit as a football coach and his detriment as an educator. This situation is called a conflict of interest.
+
+Enron's Conflict of Interest
+
+ Enron's management was focused on increasing the stock price and enjoyed high compensation and stock options. Hanson (2002) states that too many stock options and corporate compensation incentivize corporate executives to manipulate financial statements and stock prices. Enron executives padded the company's financial results to drive the stock price. This practice disadvantages shareholders in that it does not reflect the company's reality. As a result, there was a conflict of interest where the interests of shareholders and management were not aligned.
+
+Arthur Andersen's Conflict of Interest
+
+ While Arthur Andersen was auditing Enron, it also provided consulting services to Enron, for which it received substantial compensation. The duality of being an auditor and a consultant creates a conflict of interest because it justifies tacit approval of accounting irregularities as an auditor to profit as a consultant. It is profitable for an auditor to perform a proper audit; on the other hand, a proper audit is detrimental to the interests of a consultant. Thus, Arthur Andersen had a conflict of interest due to the dual nature of being an auditor and a consultant.
+
+What could have been done to avoid the conflicts of interest you identified?
+
+Enron's Conflicts of Interest
+
+Review management's incentives: Avoid pursuing short-term profits and design incentives that would lead to long-term improvements in corporate value.
+Align interests with those of shareholders: Link management compensation not only to share price but also incorporate metrics that contribute to the company's sustainable growth.
+
+Arthur Andersen Conflicts of Interest
+
+Separation of audit and consulting: Splitting audit and consulting into separate firms avoids conflicts of interest. With separate firms for auditing and consulting, auditors no longer need to consider profits from consulting work. This allows the auditors to conduct a fair audit and provide reliable information to the company's shareholders.
+Introduction of a rotation system: The auditor will be rotated on a regular basis to ensure audit objectivity.
+Expand the scope of the audit: Conduct a comprehensive audit not only of financial statements, but also of internal controls and risk management.
+
+How would you change the laws to correct the problems that came up in the Enron and Arthur Andersen case?
+
+ In the U.S., the SOX Act was enacted in 2002 in response to the Enron and Arthur Andersen cases. The most significant change to this agenda is to strengthen auditor independence. The Sarbanes-Oxley Act mostly banned firms from providing non-audit consulting services to their audit clients (Friedman, 2021). In addition, it strengthened internal controls and audit transparency and established criminal penalties, including imprisonment. The SOX Act also established strict standards for data security and took steps to prevent data falsification. For example, the retention period for audit or review work papers was extended, and whistleblower protections were strengthened, making it possible to go back in time and expose fraud (Anastasiades & Fritchie, 2024).
+
+Explore how Enron and Arthur Andersen might have been encouraged to act ethically other than direct legal pressures.
+
+The stock market severely sanctioned Enron and Arthur Andersen for their misconduct, reminding them of the importance of business ethics. Their stock price plummeted, and they went bankrupt. Cases like this show that when companies fail to act ethically, the market can severely sanction them.
+
+Hanson (2002) stated that Enron's board of directors needed to oversee Enron's management. He further decries the board's responsibility for allowing the suspension of Enron's code of conduct. After the issue came to light, the Board should have recalled its responsibility and demanded ethical behavior from Enron's management and employees.
+
+To what extent (if any) should sustainability concerns and issues be incorporated in accounting analyses?
+
+ Niesche (2024) cites one research study that describes the situation after the Enron scandal and SOX Act, ”The performance commentary is more important to users of financial reports, particularly as stakeholders pay more attention to non-financial metrics, such The performance commentary is more important to users of financial reports, particularly as stakeholders pay more attention to non-financial metrics, such as environment, social and governance." Today, the evaluation of corporate performance is not limited to financial statements but also considers governance and environmental and social impacts. Since information about a company's sustainability has become important to investors and shareholders, it should be regarded not only in accounting analysis but also in a company's internal controls, governance, and efforts to improve ethical standards.
+
+When (if ever) should organizational decisions with sustainability-related impacts and significant associated cost-implications (savings or expenditures) be shared with shareholders?
+
+ Masud et al. (2018) describe shareholders and management have a relationship as Agents and Principals in Agency Theory. Since shareholders are entrusted with the corporation's management, management should put the interests of shareholders first. However, management tends to seek to enhance short-term profits rather than long-term decision-making, which creates a conflict of interest concerning the goals of owners and agents. They studied how corporate governance affects environmental sustainability reporting performance (ESRP) in Africa and found that outside investors positively impact ESRP. The results showed that foreign investors also act as company watchdogs and maintain relationships with national and international environmental activist groups (Masud et al., 2011). Thus, sustainability-related decisions should be shared with shareholders, as they can contribute significantly to corporate sustainability.
+
+Conclusion
+
+
+ The Enron and Arthur Andersen cases remind us of the importance of corporate ethics. Companies must act ethically to provide reliable information to shareholders and investors. Since information about a company's sustainability is important for investors and shareholders, it should be wider than accounting analysis. Still, it should consider a company's internal control, governance, and efforts to improve its ethical standards. To this end, in addition to legal regulations, companies and society must monitor efforts to raise awareness of corporate ethics and sustainability.
+
+
+
+References
+
+Anastasiades, B. & Fritchie, W. (2024). The Sarbanes-Oxley Act: A Comprehensive Overview | AuditBoard. Retrieved on Nov 26, 2024, from https://www.auditboard.com/blog/sarbanes-oxley-act/
+
+Friedman, H. (2021). Separating Auditing from Consulting: More Complex than it Seems - UCLA Anderson Review. Retrieved on Nov 26, 2024, from https://anderson-review.ucla.edu/separating-auditing-from-consulting-more-complex-than-it-seems/
+
+Hanson, K. (2002). Lessons from the Enron Scandal - Markkula Center for Applied Ethics. Retrieved on Nov 26, 2024, from https://www.scu.edu/ethics/focus-areas/business-ethics/resources/lessons-from-the-enron-scandal/
+
+Masud, M.A.K., Nurunnabi, M. & Bae, S.M. The effects of corporate governance on environmental sustainability reporting: empirical evidence from South Asian countries. AJSSR 3, 3 (2018). https://doi.org/10.1186/s41180-018-0019-x
+
+
+Niesche, C. (2024). Attention Required! | Cloudflare. Retrieved on Nov 26, 2024, from https://www.acuitymag.com/finance/how-did-the-accounting-specialisation-of-audit-begin
+
+
+
+
+
+---------------
+
+
+ディスカッション課題
+この課題では、少なくとも300ワードで以下の質問に答えなさい。
+
+エンロンとアーサー・アンダーセンのケースを過度に単純化すると、エンロンは疑わしい会計慣行をいくつか使用していた。アーサー・アンダーセンは独立監査人であったため、疑わしい会計慣行がエンロンの株主にとってリスクとなる可能性があることを報告する責任があった。証券取引委員会は、エンロンの会計情報に関する正確な情報を要求し、公表する責任がありました。結局、エンロンの従業員数人が刑務所に入り、アーサー・アンダーセンはその名前での事業を停止しました。
+
+エンロンとアーサー・アンダーセンのケースで、利益相反と考えられる点を挙げてください。
+利益相反とは、人物や組織が二面性を持っており、それぞれの人格に利益と不利益が発生することを言います。例えばフットボールに熱心な学校の先生を例にしましょう。その先生は教育者として生徒の学力を向上させることが求められますが、フットボールのコーチとしては生徒のフットボール技術を向上させることが求められます。大会に出場させるために授業を欠席させる場合、教育者としての責任とフットボールコーチとしての責任が衝突します。この例で大会出場はフットボールコーチとして利益になり、教育者としては不利益になります。このような状況を利益相反と言います。
+
+エンロンとアーサー・アンダーセンのケースで、利益相反と考えられる点
+エンロンの二面性
+株主の利益を求める経営陣と、個人的な利益を求める経営陣
+エンロン経営陣は株価の上昇を重視し、高額な報酬や株式オプションを享受していました。ハンソンはストックオプションや企業報酬が多すぎると、企業の役員が財務諸表や株価を操作する動機が強くなると述べています。エンロンの経営陣は株価を上昇させるために、会社の業績を水増ししていました。このような行為は、個人的な利益となりますが株主には実態の伴わない決算を提示することになり不利益を与えます。その結果、株主と経営陣の利益が一致しない利益相反も生じていました。
+
+アーサー・アンダーセンの二面性
+アーサー・アンダーセンはエンロンの監査を行っていましたが、同時にエンロンのコンサルティング業務を行っており多額の報酬を得ていました。監査役とコンサルタントの２面性は利益相反を生みます。コンサルタントとして利益を得るために、監査役として不正な会計を黙認することが正当化されるためです。これはもちろん監査役としては不利益を与えられる行為です。一方で監査役として適切な監査を行うことは利益となりますが、コンサルタントとしての利益を損なうことになります。このようにアーサー・アンダーセンは、監査役とコンサルタントの二面性により利益相反が生じていました。
+
+あなたが特定した利益相反を回避するために何ができたでしょうか？
+エンロンの利益相反
+経営陣のインセンティブの見直し
+短期的な利益追求からの脱却: 長期的な企業価値向上に繋がるようなインセンティブ設計を行う。
+株主との利益の一致: 経営陣の報酬を株価と連動させるだけでなく、企業の持続的な成長に貢献するような指標も組み込む。
+
+アーサー・アンダーセンの利益相反
+監査とコンサルティングの分離
+監査とコンサルティングを別会社に分割することで、利益相反を回避することができます。監査とコンサルティングを行う会社が別々であれば、監査役はコンサルティング業務による利益を考慮する必要がなくなります。これにより、監査役は公正な監査を行うことができ、企業の株主に対して信頼性の高い情報を提供することができます。
+
+ローテーション制度の導入: 監査担当者を定期的に交代させることで、監査の客観性を確保する。
+監査の範囲拡大: 財務諸表だけでなく、内部統制やリスク管理についても包括的に監査を行う。
+
+
+エンロンとアーサー・アンダーセンの事件で生じた問題を是正するために、法律をどのように変更しますか？
+実際のアメリカではエンロンとアーサー・アンダーセンの事件を受け2002年にSOX法が制定されました。この議題に対する最も大きな変更は監査人の独立性を強化することです。Sarbanes-Oxley Act mostly banned firms from providing nonaudit consulting services to their audit clients(Friedman, 2021). さらに内部統制や監査の透明性を強化し、懲役刑を含む刑事罰を設けました。SOX法ではデータセキュリティに関しても厳しい基準が設けられ、データの改竄を防ぐための措置が取られました。例えば監査またはレビューのワークペーパーの保管期間が延長され、内部告発者の保護を強化したことで、過去に遡って不正を暴くことが可能になりました (Anastasiades & Fritchie, 2024)。
+
+
+エンロンとアーサー・アンダーセンは、直接的な法的圧力以外に、倫理的に行動するようどのように奨励された可能性があるかを調べてください。
+株式市場はエンロンの不正行為に対して厳しい制裁を与え、企業倫理の重要性を再認識させました。エンロンの株価は急落し、エンロンは債務を返済できず破産しました。このような事例は、企業が倫理的な行動を取らない場合、市場から厳しい制裁を受ける可能性があることを示しています。
+さらにハンソンはエンロンの取締役会が、エンロンの経営陣に対して適切な監督を行っていなかった点が問題だと述べています。さらにエンロンの行動規範の一時停止を許可した取締役会に責任があると断罪しています。問題の発覚後、取締役会は自らの責任を思い出しエンロンの経営陣および従業員に対して倫理的な行動を要求したはずです。
+
+持続可能性に関する懸念や問題は、（もしあるとすれば）どの程度まで会計分析に組み込むべきか。
+Niescheはあるリサーチを引用し、Enron scandalやSOX法の後の状況をこう述べています。"The performance commentary is more important to users of financial reports, particularly as stakeholders pay more attention to non-financial metrics, such as environment, social and governance."(Niesche, 2024) 現代では企業の業績評価は財務諸表だけではなく、ガバナンスや環境、社会に対する影響も考慮されるようになっています。企業の持続可能性に関する情報は、投資家や株主にとって重要な情報となっているため、会計分析に留まらず、企業の内部統制やガバナンス、倫理観向上への取り組みも重要な要素として考慮されるべきです。
+
+持続可能性に関連する影響や、それに関連する重要なコスト（節約や支出）を伴う組織の意思決定は、（もしあるとすれば）いつ株主と共有されるべきか。
+株主と経営陣はエージェンシー理論ではagentとprincipalとしての関係にあります。株主は企業の経営を委託しているため、経営陣は株主の利益を最優先に考えるべきです。しかし、経営陣は長期的な意思決定よりも短期的な利益を高めようとする傾向があるため、所有者とエージェントの目標に関して利益相反が生じます。Masud et al., は取締役会の社外取締役がさまざまな利害関係者を代表し、企業の環境政策、規制、業績を綿密に監視するべきだと述べます。彼らは corporate governanceがアフリカのenvironmental sustainability reporting performance (ESRP)にどのように影響を与えるかを調査し、結果として、社外取締役がESRPに正の影響を与えることが示されました。さらにこのようにも述べています。Foreign investors also act as company watchdogs and maintain relationships with national and international environmental activist groups(Masud et al., 2018). このように、株主は企業の持続可能性に大きく寄与する可能性があるため、持続可能性に関連する意思決定は株主と共有されるべきです。
+
+Conclusion
+EnronとArthur Andersenの事件は、企業の倫理観の重要性を再認識させる事例となりました。企業は株主や投資家に対して信頼性の高い情報を提供するために、倫理的な行動を取ることが求められます。また、企業の持続可能性に関する情報は、投資家や株主にとって重要な要素となっているため、会計分析に留まらず、企業の内部統制やガバナンス、倫理観向上への取り組みも重要な要素として考慮されるべきです。そのために企業や社会は法規制に加えて、企業の倫理観や持続可能性に対する意識を高める取り組みを監視する必要があります。
+
+
+
+
+
+References
+Anastasiades, B. & Fritchie, W. (2024). The Sarbanes-Oxley Act: A Comprehensive Overview | AuditBoard. Retrieved on Nov 26, 2024, from https://www.auditboard.com/blog/sarbanes-oxley-act/
+Friedman, H. (2021). Separating Auditing from Consulting: More Complex than it Seems - UCLA Anderson Review. Retrieved on Nov 26, 2024, from https://anderson-review.ucla.edu/separating-auditing-from-consulting-more-complex-than-it-seems/
+Hanson, K. (2002). Lessons from the Enron Scandal - Markkula Center for Applied Ethics. Retrieved on Nov 26, 2024, from https://www.scu.edu/ethics/focus-areas/business-ethics/resources/lessons-from-the-enron-scandal/
+Masud, M.A.K., Nurunnabi, M. & Bae, S.M. The effects of corporate governance on environmental sustainability reporting: empirical evidence from South Asian countries. AJSSR 3, 3 (2018). https://doi.org/10.1186/s41180-018-0019-x
+Niesche, C. (2024). Attention Required! | Cloudflare. Retrieved on Nov 26, 2024, from https://www.acuitymag.com/finance/how-did-the-accounting-specialisation-of-audit-begin
+
+
+
+
+
+
+
+
+
+
+
+
+Hello Sari,
+Thank you for sharing your great post. I particularly prefer your mentioned PCAOB. The American Institute of Certified Public Accountants (AICPA) has announced some ethical guidelines for auditors, however, AICPA does not have enforcement authority. Therefore, the PCAOB was established to oversee the audits of public companies to protect investors and further the public interest in the preparation of informative, accurate, and independent audit reports by the goverment. I confused their roles in my Written Assignment research. Excellent job, I'm looking forward to reading more of your next posts.
+
+Thank you,
+Yas
+
+
+Hello Waled,
+I really enjoyed your great post, thank you for sharing. I particularly liked your excellent insight into the rotation of audit firms. I wrote the rotation of audit staffs in the same firm but your idea is far better than mine. In my Written Assignment research, I found a sentence in the PCAOB's Audit Standards, AS 2405, that a audit firm could share their suspicion to the successor auditor (PCAOB, 2024). This is a great idea to prevent fraud because if a company has no will to change their fraudulent, no audit firms will accept their audit request.
+I'm looking forward to reading more of your next posts.
+
+Reference
+PCAOB. (2024).  AS 2405: Illegal Acts by Clients | PCAOB . Retrieved on Nov 28, 2024, from https://pcaobus.org/oversight/standards/auditing-standards/details/AS2405
+
+Hello Kwame,
+I enjoyed your great post, thank you for sharing. It is insightful and provides many references, the citations are properly used as well. It may go a bit outside in this subject, but I believe the mandatory ethics training is very important for every company not only the audit firms. I work for an IT company but we have to take several e-learnings about ethics every months. I think this is a good way to prevent fraud and unethical behavior in the company. Of course, laws and regulations as you mentioned are necessary.
+ I'm looking forward to reading more of your next posts.
+
+ Thank you!
+ Yas

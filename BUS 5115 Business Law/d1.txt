@@ -1,0 +1,371 @@
+以下のような大学院の課題があります。私がメモした内容を元に、回答を作成してください。
+
+Discussion Assignment
+For this assignment write at least 300 words answering the following prompts:
+
+Using the readings for this unit as a guide, discuss
+what you see as the role of ethics as it pertains to management and managers.
+Does management, in your view, help shape the values and ethics of an organization?
+What about an organization’s sustainability efforts and commitment?
+On whom does the responsibility to consider sustainability fall?
+Is employee behavior, ethical or not, a by-product of the organization's ethical climate?
+What ideally is the manager's role in helping to create and maintain organizational integrity?
+
+Using your professional experience as a backdrop, provide examples of managers who have demonstrated ethical behavior (or not) and discuss how this affected the organization, the employees, etc. You might actively consider and incorporate sustainability-related efforts and behaviors in your analysis and reply.
+
+--------------------
+ Business ethics is a complex concept involving various legal, moral, and social norms. In this subject, it is crucial to consider the role that management plays in shaping an organization's ethics and the impact that an organization's ethical climate has on employee behavior.
+
+Unpaid Overtime in Japan: The Gap Between Ethics and Law
+
+In Japan, overtime work without pay is called *service overtime*. It means that the employee is providing a service to the company. Unpaid overtime has long been a problem in Japan (Ono, 2018). Even though the Labor Standards Law sets a ceiling on overtime hours, the current situation in which service overtime is rampant in many companies indicates the gap between the law and ethics.
+
+The following factors are considered to be behind this problem.
+
+Economic conditions: Long-term deflation and job insecurity drive employees to work longer hours. When I went to an unemployment office 10 years ago, no jobs were available to make a living fee.
+
+Corporate culture: The culture of performance-based management and long hours is deeply entrenched, and employees feel obligated to work long hours.
+
+Tacit approval by supervisors: Long working hours are taken for granted throughout the organization because supervisors tacitly approve or even encourage overtime work. When leaving on time, it is common for employees to say like, “I'm afraid I must be on my way.”
+
+
+
+This problem of overtime service demonstrates that business ethics cannot be described simply in terms of one aspect, such as law or morality. Business ethics has multiple layers.
+
+Legal Limitations: Although the Labor Standards Act protects workers' rights, it can only solve some labor problems. Informal factors such as corporate culture and employee attitudes significantly impact the work environment.
+
+Moral vs. Ethical Conflict: Working long hours may sacrifice personal health and time with family and should be viewed as a moral issue. However, some people are willing to work long hours to improve corporate performance or to advance their careers.
+
+Impact of Organizational Culture: Such a person is considered a role model for the organization. An organization's ethical climate has a significant effect on employee behavior. In response to Asch's conformity experiment, the text argues that “the attraction to obedience makes people deny what they see."(Business Ethics, 2012) In 2018, Japanese researchers published a study showing that overtime work of 60 hours or more per month increases happiness (Nakahara, 2018). Subordinates would inevitably admire the happy faces of bosses who work long hours.
+
+(Nakahara, 2018) Translated a graph by Google Translate
+
+Sustainability: Ethics Unwrapped states that with CSR, companies should pursue a deeper purpose than simply maximizing profits (Ethics Unwrapped, n/d). However, the logic can only be established if the company sustains itself. Japanese organizations are *sustained* by working long hours. If this low-productivity country stops working long hours, all organizations would have no choice but to collapse. However, as a result, Japan's GDP has not grown in over 30 years, and the nation's labor has disappeared into the daily cost of living. Only tourists from abroad use entertainment facilities. Long working hours and poverty have caused a severe decline in the birth rate, so much so that Elon Musk candidly stated, “Japan will disappear."(Musk, 2024) This shows that Japan's business ethics are at odds with the country's sustainability.
+
+
+
+ In terms of national sustainability, the responsibility lies with the people. However, in today's Japan, the generational gap in votes is so significant that the generation that has retired from the workforce continues to elect politicians who approve of long working hours (Masahisa, 2024). The government is urging people to stop working long hours. Still, since the Labor Standards Law does not apply to civil servants, ministry employees will not stop working long hours(You may laugh; their remedial measure is to “allow 13 consecutive days of work”). The only thing the younger generation can do in elections is to feel helpless and lose interest in politics. The old who do not work will force the young to work even longer hours, allowing them to siphon off social security contributions and pensions.
+
+
+
+The Role of Management and Organizational Ethics
+
+ Organizational leaders, whether prime ministers or managers, play an essential role in shaping their organizations' values and ethics. Management needs to consider the following points to solve the problem of overtime work.
+
+Ensure legal compliance: Strictly manage employee working hours in compliance with the Labor Standards Law and other relevant laws and regulations.
+
+Ethics Education: Implement ethics education programs such as Lockheed Martin's “Gray Matters” to encourage ethical behavior among employees (Business Ethics, 2012).
+
+Promote diverse work styles: Introduce diverse work styles, such as flextime and telework, to help employees achieve a work-life balance.
+
+Employee health management: Focus on employee health management, including health checkups and stress checks.
+
+Demonstrate ethical leadership: Set an example and encourage ethical behavior among employees.
+
+
+
+Conclusion
+
+ Business ethics involves diverse elements such as law, morality, social norms, and economics. Some problems, such as the unpaid overtime problem in Japan, cannot be solved by legal regulations alone. Companies must comply with laws and regulations, practice ethical management, and create a comfortable working environment for their employees. AI will change business ethics in the future. Thus, business ethics is ever-changing, and management must respond flexibly to these changes.
+
+
+
+Reference
+
+Business Ethics (2012). This book is licensed under a Creative Commons by-nc-sa 3.0 license. Retrieved from: http://2012books.lardbucket.org/books/business-ethics/index.html
+
+Ethics Unwrapped. (n.d.). Corporate Social Responsibility - Ethics Unwrapped. Retrieved on Nov 16, 2024, from https://ethicsunwrapped.utexas.edu/glossary/corporate-social-responsibility
+
+Masahisa, E. (2024). Ideological Perception Gap: Data Analysis Reveals Left-Right Distinction Lost on Young Japanese Voters | Nippon.com. Retrieved on Nov 16, 2024, from https://www.nippon.com/en/in-depth/a09903/
+
+Musk, E. (2024). Japan will disappear if something doesn’t change. Retrieved on Nov 16, 2024, from https://x.com/elonmusk/status/1763214981753983161?lang=en
+
+Nakahara, J. (2018). Overtime Studies Project of Hope. Retrieved on Nov 16, 2024, from https://rc.persol-group.co.jp/news/201802081000.html
+
+Ono, H. (2018). Why do the Japanese work long hours? Sociological Perspectives on Long Working Hours in Japan.  https://www.jil.go.jp/english/jli/documents/2018/005-03.pdf
+
+
+
+-----------
+Business ethics is a complex concept involving a wide variety of legal, moral, and social norms. In this subject, it is particularly important to consider the role that management plays in shaping the ethics of an organization and the impact that an organization's ethical climate has on employee behavior.
+
+The Problem of Unpaid overtime in Japan: The Gap between Ethics and Law
+In Japan, overtime work without pay is called service overtime. It is a way of saying that the employee is providing a service to the company. Unpaid overtime has long been a problem in Japan(Ono, 2018). The current situation, in which service overtime is rampant in many companies despite the fact that the Labor Standards Law sets a ceiling on overtime hours, is a clear indication of the gap between the law and ethics.
+
+The following factors are considered to be behind this problem
+
+Economic conditions: Long-term deflation and job insecurity are driving employees to work longer hours. When I went to a job placement agency 10 years ago, there were no jobs available to make ends meet.
+Corporate culture: The culture of performance-based management and long hours are deeply entrenched, and employees feel obligated to work long hours.
+Tacit approval by supervisors: In some cases, long working hours are taken for granted throughout the organization because supervisors tacitly approve or even encourage overtime work. When leaving on time, it is common for employees to say, like, “I'm afraid I must be on my way.”
+
+This problem of overtime service demonstrates that business ethics cannot be described simply in terms of one aspect, such as law or morality. Business ethics has multiple layers.
+
+Legal Limitations: Although the Labor Standards Act is an important law to protect workers' rights, it cannot solve all labor problems. Informal factors such as corporate culture and employee attitudes also have a significant impact on the work environment.
+Moral vs. ethical conflict: Working long hours may sacrifice personal health and time with family, and should be viewed as a moral issue. However, some people are willing to work long hours to improve corporate performance or to advance their personal careers.
+Impact of organizational culture: Such a person is considered a role model for the organization. An organization's ethical climate has a significant impact on employee behavior. In response to Asch's conformity experiment, the text argues that “the attraction to obedience makes people deny what they see."(Business Ethics, 2012) There is little known research that shows that happiness increases when working hours exceed a certain line, so it is not surprising that a boss who works long hours would find the statement “I am happy” attractive.
+Sustainability: Ethics Unwrapped states that with CSR, companies should pursue a deeper purpose than simply maximizing profits (Ethics Unwrapped, n/d). However, the logic cannot be established if the company does not sustain itself. Japanese organizations are *sustained* by working long hours. If this low productivity contry stop working long hours, all organizations would have no choice but to collapse. But as a result, Japan's GDP has not grown in over 30 years, and the nation's labor simply disappears into the daily cost of living and entertainment facilities are used by tourists from abroad. Long working hours and poverty have caused a severe decline in the birth rate, so much so that Elon Musk candidly stated, “Japan will disappear."(Musk, 2024) This shows that Japan's business ethics are at odds with the sustainability of the country.
+
+<img> https://x.com/elonmusk/status/1763214981753983161?lang=en
+
+In terms of national sustainability, the responsibility lies with the people. However, in today's Japan, the generational gap in votes is so great that the generation that has retired from the workforce continues to elect politicians who approve of long working hours (Masahisa, 2024). The government is urging people to stop working long hours, but since the Labor Standards Law does not apply to civil servants, ministry employees will not stop working long hours(You may laugh, their remedial measure is to “allow 13 consecutive days of work”). The only thing the younger generation can do in elections is to feel helpless and lose interest in politics. The old who do not work will force the young to work even longer hours, allowing them to siphon off social security contributions and pensions.
+
+https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/
+
+The Role of Management and Organizational Ethics
+Organizational leaders, whether prime ministers or managers, play an important role in shaping the values and ethics of their organizations. In order to solve the problem of overtime work, management needs to keep in mind the following points
+
+Ensure legal compliance: Strictly manage employee working hours in compliance with the Labor Standards Law and other relevant laws and regulations.
+Ethics Education: Implement ethics education programs such as Lockheed Martin's “Gray Matters” to encourage ethical behavior among employees.
+Promote diverse work styles: Introduce diverse work styles, such as flextime and telework, to help employees achieve a work-life balance.
+Employee health management: Focus on employee health management, including health checkups and stress checks.
+Demonstrate ethical leadership: Set an example and encourage ethical behavior among employees.
+
+Conclusion
+Business ethics is a complex concept involving diverse elements such as law, morality, social norms, and economics. Some problems, such as the unpaid overtime problem in Japan, cannot be solved by legal regulations alone. Companies must not only comply with laws and regulations, but also practice ethical management and create a comfortable working environment for their employees. AI will change business ethics in the future. Thus, business ethics is an ever-changing issue, and management must respond flexibly to these changes.
+
+Reference
+Business Ethics (2012). This book is licensed under a Creative Commons by-nc-sa 3.0 license. Retrieved from: http://2012books.lardbucket.org/books/business-ethics/index.html
+Ethics Unwrapped. (n.d.). Corporate Social Responsibility - Ethics Unwrapped. Retrieved on Nov 16, 2024, from https://ethicsunwrapped.utexas.edu/glossary/corporate-social-responsibility
+Masahisa, E. (2024). Ideological Perception Gap: Data Analysis Reveals Left-Right Distinction Lost on Young Japanese Voters | Nippon.com. Retrieved on Nov 16, 2024, from https://www.nippon.com/en/in-depth/a09903/
+Musk, E. (2024). Japan will disappear if something doesn’t change. Retrieved on Nov 16, 2024, from https://x.com/elonmusk/status/1763214981753983161?lang=en
+Nakahara, J. (2018). Overtime Studies Project of Hope. Retrieved on Nov 16, 2024, from https://rc.persol-group.co.jp/news/201802081000.html
+Ono, H. (2018). Why do the Japanese work long hours? Sociological Perspectives on Long Working Hours in Japan.
+
+
+
+ビジネス倫理は、法、道徳、社会規範など、多様な要素が複雑に絡み合う概念です。この主題では特に、経営者が組織の倫理形成に果たす役割、そして、組織の倫理的な風土が従業員の行動に与える影響を考慮することが重要です。
+
+日本のサービス残業問題：倫理と法のギャップ
+日本では、サービス残業が長年にわたって問題視されてきました。労働基準法で残業時間の上限が定められているにも関わらず、多くの企業でサービス残業が横行している現状は、法と倫理の乖離を如実に示しています。
+
+この問題の背景には、以下のような要因が考えられます。
+
+経済状況: 長期的なデフレや雇用不安が、従業員を長時間労働へと駆り立てています。私が10年前に職業斡旋所に行った時、そこに生活費に足る仕事はありませんでした。
+企業文化: 成果主義や長時間労働を美徳とする企業文化が根強く残っており、従業員は長時間労働を義務だと感じています。
+上司の黙認: 上司がサービス残業を黙認したり、むしろ奨励したりすることで、組織全体で長時間労働が当たり前になっているケースが見られます。定時に帰る場合は「すみません、お先に失礼します。」と謝ることが一般的です。
+
+このようなサービス残業の問題は、ビジネス倫理が単に法や道徳といった一側面のみで語れないことを示しています。ビジネス倫理には多層性があるのです。
+
+法の限界: 労働基準法は、労働者の権利を保護するための重要な法律ですが、すべての労働問題を解決できるわけではありません。企業文化や従業員の意識といった非公式な要素も、労働環境に大きな影響を与えています。
+道徳と倫理の葛藤: 長時間労働は、個人の健康や家族との時間を犠牲にする可能性があり、道徳的に問題視されるべきです。しかし、企業の業績向上や個人のキャリアアップのために長時間労働をいとわない人がいます。
+組織文化の影響: そのような人は組織のロールモデルとされます。組織の倫理的な風土は、従業員の行動に大きな影響を与えます。アッシュの順応性実験に対してoooは「従順への魅力は自分の目に見えるものを否定させる」と論じます。2018年、日本の研究者は月60時間以上の残業は幸福度を上げるという研究を発表しました。長時間労働をする上司の「自分は幸せだ」という発言を部下が魅力的だと感じるのは仕方ないことでしょう。
+(Nakahara, 2018)
+
+
+持続可能性: Ethics UnwrappedはCSRについて企業は単に利益を最大化する以上の深い目的を追求すべきだと述べています。しかし、それは企業が持続しなければ成り立たない論理です。日本の組織は長時間労働により「持続」しています。生産性が低いこの国が長時間労働をやめたら、あらゆる組織が瓦解するしかないのです。しかし結果として日本は30年以上GDPが成長しておらず、国民の労働は日々の生活費に消えるだけであり娯楽施設は海外からの旅行者が利用するものとなっています。長時間労働と貧困は深刻な出生率の低下を引き起こし、Elon Muskが「Japan will disappear」と率直な発言をするほどです。これは日本のビジネス倫理が日本という国の持続可能性と相反していることを示しています。
+
+https://x.com/elonmusk/status/1763214981753983161?lang=en
+
+国の持続可能性という観点で言えば、責任は国民にあります。しかし現在の日本は一票の世代間格差があまりにも大きいため、労働から引退した世代が長時間労働を肯定する政治家を選び続けています。政府は長時間労働をやめるように促していますが、公務員には労働基準法が適用されないため省庁職員は一向に長時間労働をやめません。若い世代が選挙でできることは無力さを痛感して政治への興味を失うことだけです。働かない老人はさらに若者に長時間労働を強い、社会保険料と年金を吸い上げることができるようになります。
+
+経営者の役割と組織の倫理
+首相であれ経営者であれ、組織のリーダーは組織の価値観や倫理を形成する上で重要な役割を担っています。サービス残業の問題を解決するためには、経営者が以下の点に留意する必要があります。
+
+法令遵守の徹底: 労働基準法をはじめとする関連法規を遵守し、従業員の労働時間を厳格に管理する。
+倫理教育：  Lockheed Martin が行った"Gray Matters"のような倫理教育プログラムを導入し、従業員に倫理的な行動を促す。
+多様な働き方の推進: フレックスタイム制やテレワークなど、多様な働き方を導入し、従業員がワークライフバランスを実現できるように支援する。
+従業員の健康管理: 健康診断の実施やストレスチェックなど、従業員の健康管理に力を入れる。
+倫理的なリーダーシップの発揮: 自らが模範となる行動を示し、従業員に倫理的な行動を促す。
+
+結論
+ビジネス倫理は、法、道徳、社会規範、そして経済など、多様な要素が複雑に絡み合った概念です。日本のサービス残業問題のように、法的な規制だけでは解決できない問題も存在します。企業は、法令遵守はもちろんのこと、倫理的な経営を実践し、従業員が働きやすい環境を整備していく必要があります。今後はAIがビジネス倫理を変えていくでしょう。このように、ビジネス倫理は常に変化し続ける課題であり、経営者がその変化に柔軟に対応していくことが求められます。
+
+
+
+
+
+
+
+
+
+
+
+-------------
+
+私が書いたメモは以下です。
+
+
+what you see as the role of ethics as it pertains to management and managers.
+Does management, in your view, help shape the values and ethics of an organization?
+What about an organization’s sustainability efforts and commitment?
+On whom does the responsibility to consider sustainability fall?
+Is employee behavior, ethical or not, a by-product of the organization's ethical climate?
+What ideally is the manager's role in helping to create and maintain organizational integrity?
+
+
+
+In simple, practical terms, the test of an ethical argument resembles the test of a recipe for a cook: others need to be able to follow it and come to the same result. There may remain disagreements about facts and values at the end of an argument in ethics, but others need to understand the reasoning marking each step taken on the way to your conclusion.
+倫理的な議論のテストは、料理人にとってのレシピのテストに似ています。つまり、他の人がそれに従って同じ結果に達することができる必要があります。倫理の議論の最後には、事実と価値観についての意見の相違が残るかもしれませんが、他の人は、結論に至るまでの各ステップを示す推論を理解する必要があります。
+
+ハーバード・ビジネス・レビューに掲載された悪名高い記事によって促進された。「ビジネスでのブラフは倫理的か？」という記事
+
+みんなが嘘つきなら平等
+詐欺が当たり前の世界では人を信じられなくなる
+経済は停滞するだろう
+
+
+
+市場を通じてだ。要求の厳しい消費者の圧力により、企業は評判の良い行動をとらざるを得なくなる
+
+しかし隠れて有害物質を埋めるのは簡単で、消費者はそれを見抜けない
+それらを暴くメディアが必要だとするならば、ビジネス倫理にはメディアが欠かせないことになる
+
+サスティナビリティは企業の社会的責任、つまり「CSR」とは、企業が良き企業市民である必要性を意味します。この思想はまさに倫理であり、その下では企業は単に利益を最大化する以上の深い目的を追求すべきだと考えられています。
+https://ethicsunwrapped.utexas.edu/glossary/corporate-social-responsibility
+
+しかしチャールズ・アイゼンシュタインが言う通り、企業が利益を追求しなければそもそも持続することができない。企業は利益を追求することで社会に貢献することができる、ここに大きな矛盾がある。
+https://www.theguardian.com/sustainable-business/blog/sustainability-business-sense-profit-purpose
+
+ビジネス倫理は「根本的に資本主義企業に敵対しており、企業と経営者の両方を強力な改革の手を必要とする社会的寄生虫と見なしています。」Alexei M. Marcoux、「ビジネス倫理の失敗」、Cato 政策レポート22、第 3 号 (2000 年 5 月/6 月)、2011 年 5 月 11 日アクセス、http://www.cato.org/pubs/policy_report/v22n3/cpr-22n3.html。
+
+倫理的介入は、資本主義のエンジンを詰まらせる恐れがある。「市場経済とその基礎である株主志向の企業は、決定的な打撃を受ける危険はないとしても、少なくとも千切れて死ぬ危険がある。」アレクセイ・M・マルクー、「ビジネス倫理の誤り」、Cato Policy Report 22、第3号（2000年5月/6月）、2011年5月11日アクセス、http://www.cato.org/pubs/policy_report/v22n3/cpr-22n3.html。
+
+市場がほとんどの問題を解決するという見方は倫理です
+
+
+雇用主は勤務時間外であっても適切なビジネス態度を期待しています。
+
+電車にジャンプ一冊持ってのってくるサラリーマン、社章をつけている
+
+
+改ざんを支持されたTonyが、もし告発をしたら次の仕事に就けるだろうか？ 企業は彼を会社のポリシーを守らない非従順な社員だと認識するかもしれない。
+https://www.scu.edu/ethics/focus-areas/more-focus-areas/engineering-ethics/engineering-ethics-cases/presidential-pressure/
+
+
+
+law can deviate from what is ethical. Law can become ethically corrupt
+
+法律は倫理から逸脱することがあります。法律は倫理的に腐敗することがあります
+
+
+公益アプローチによれば、コミュニティでの生活はそれ自体が善であり、私たちの行動はその生活に貢献するべきです。このアプローチは、社会の相互関係が倫理的推論の基礎であり、他のすべての人、特に弱者に対する尊敬と思いやりがそのような推論の要件であることを示唆しています。
+公益のレンズは、コミュニティのすべてのメンバーの共通の利益に対する相互の関心を強調します。
+https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/
+
+
+マークラ応用倫理センターの倫理的意思決定の枠組みは公平な判定方法に見えるが、「どの選択肢が利害関係者全員の権利を最も尊重するものでしょうか? (The Rights Lens)」に示されるように倫理観そのものではなく全員の妥協を最小化した地点をゴールとしている。この状況では多数派が窃盗容認派であれば窃盗も倫理的に正当化されることになる。この結果から、倫理は常に私たちが望むものとは限らないことがわかる。
+
+
+
+
+日本ではサービス残業は当たり前であり、上司は黙認するものだ。労働法で明確に禁止されているが、実際には違法行為が横行している。これはプライベートの侵食であるが従業員は長い不況により、自分の仕事を守るために我慢している。
+
+
+
+
+
+Business Ethics. Provided by: Wikipedia. Located at: https://en.wikipedia.org/wiki/Business_ethics. License: CC BY-SA
+Ethical and Legal Behavior. Authored by: Robert Carroll. Provided by: Montgomery College. License: CC BY 4.0
+Introduction to Business: Ethics and Legal Behavior. Authored by: Linda Williams and Lumen Learning. License: CC BY 4.0
+"Ethics" by  masondan  is licensed under CC BY-NC-SA 2.0
+
+ある日はダウンロードが完全に合法であっても、次の日、議会で法案が可決されると違法になります。つまり、法律は覆されますが、ダウンロードに関する決定を導く価値観や議論である倫理がその短期間で変わったと考える理由はありません。倫理が変わっていないのであれば、2 つの法律のうち少なくとも 1 つは倫理的に間違っているに違いありません。つまり、倫理と法律の間に必要なつながりが壊れているということです。
+
+Asch's Conformity アッシュの順応性
+従順への衝動と仲間からの圧力
+従順への魅力は非常に強いため、私たちは、他の人とは違う目立つ存在になることを強いられる前に、自分の目ではっきりと見えるものを否定します。
+
+
+プラトンの正義論は、私たちが日常生活で直面する様々な倫理的な問題に対して、普遍的な解決策を見つけることができるという考えに基づいています。
+
+プラトンは、椅子の例を用いてこの考えを説明しています。私たちは「椅子」という概念をしっかりと理解しており、様々な形状や材質の椅子を認識することができます。しかし、「椅子」を厳密に定義しようとすると、その特徴をすべて網羅することは困難です。
+
+同様に、正義も明確な定義を下すことは難しい概念です。しかし、プラトンは、私たちが心の奥底に「正義」という概念を持っていると考えていました。この概念に基づけば、具体的な状況において、何が正しく何が間違いかを判断できるというのです。
+
+つまり、プラトンは、正義に関する普遍的な知識を持つことで、個々の倫理的な問題に対する解決策を見つけることができるという主張をしたのです。
+
+
+
+自分の自由は他人が持つ自由によってのみ制限されるというものです。
+
+
+
+
+ビジネス倫理の研究は、この個人の成熟度の高いレベルに属します。価値体系は並べて掲げられ、一方を他方よりも選ぶ理由が立てられます。これが完全な成人の倫理であり、現実世界での適切な推論と経験が必要です。
+
+ビジネス倫理は理由が必要な高度なもの
+
+
+
+
+"Sustainable Edition" by Scoobyfoo is licensed under CC BY-NC-ND 2.0
+"library chess set" by Muffet is licensed under CC BY 2.0
+
+
+
+
+
+
+
+
+
+
+
+Captive
+
+exasperating
+
+emblazoned
+treads
+
+
+
+
+
+
+
+
+
+
+
+
+In reply to Shreya Sarkar (Instructor)
+Re: Discussion Forum Unit 1
+by Obioha Durunna - Sunday, 17 November 2024, 11:09 AM
+    In my view, management should actively participate in shaping the values and ethics of the organization. They must set the precedence or differentiating factors that make the organization unique. These factors appeal to the public, converting first-time buyers to return customers. The values and ethics of an organization may make or mar them depending on the expectations and needs of their clients or customers. They can influence the outcome by setting the tone, providing a clear vision for the establishment and communicating clear expectations for all employees. They can also reward or reprimand employees for following or dissenting the guidelines that have been laid out.
+
+    I work in a tertiary institution where the outcomes of our studies guide our clients in making informed decisions about their farm activities. This means that the guidance we provide directly affects their lives and livelihoods. It also affects our reputation as a service provider and research organization. In providing such information, we also have to consider suppliers or manufacturers of the products we are researching. We prefer to seek external funding to conduct such research activities to avoid conflict of interest scenarios or their perceptions thereof, should the manufacturers fund the projects themselves. Where the funding comes from the companies, we specify in the agreement that the research outcomes will be shared with all stakeholders. This clause or paragraph helps protect us in discharging our duties and responsibilities or i reporting results to the public or clients.
+
+    Concerning organizational sustainability efforts, our establishment abides by sustainability guidelines that ensure that we are not wasteful in discharging our duties. The leadership needs to communicate the benefits such actions attract to the organization to garner employee support. Our institution communicates such information from the president during town halls making everyone aware of the expectations.
+
+    For our research group, all experimental projects seek approval or request the support of an independent evaluation council, which evaluates and ensures that our studies are conducted humanely and economically in a way that we can reuse the animal subjects (where necessary), reduce the sample size of animal subjects required and that we are using the appropriate animal model for the research. Our proposals usually include the statistical estimate of the minimum number of animal subjects necessary for that research.
+
+    I believe the quest for organizational sustainability efforts should rest on all leaders and employees in any organization. However, I think the organization’s leadership should drive the sustainability efforts. Patagonia’s case (Chouinard & Stanley, 2012) showed that engaging sustainability efforts can be associated with costs to the organization, for example, by promoting reuse and repair, which reduces the number of return-buyers of the same items.
+
+    I don’t think the employees’ behaviour is wholly or partly determined by the ethical climate without the employee’s choice or free will to participate. However, suppose the livelihood of the employee depends on exhibiting and demonstrating the values of the company, compliance may be the only option for such an employee until a job opportunity arises elsewhere.
+
+    I believe the manager’s role is to exemplify the organization’s values, which includes maintaining integrity. Our manager constantly reminds all employees to maintain integrity in all work activities in our establishment. We are also reminded of the policies and procedures surrounding the actions and decisions.
+
+    In summary, management should play an active role in determining organizational values, ethics and employee behaviour through different actions such as communicating a clear vision and leading by example. The company leadership can also champion sustainability efforts by clearly showcasing the benefits of such plans to the organization.
+
+Hello Obioha,
+Thank you for an excellent post on the topic. I particularly prefer your example of the ethical behavior about the research group. It is essential to have an independent evaluation council to ensure that the studies are conducted humanely and economically. This is a great way to ensure that the research is ethical and sustainable. I also agree with your point that management should actively participate in shaping the values and ethics of the organization. They set the tone for the organization and influence the behavior of employees. It is crucial for the leadership to communicate the benefits of sustainability efforts to garner employee support. Overall, your post provides valuable insights into the importance of ethics and sustainability in organizations. Well done!
+
+
+
+
+Re: Discussion Forum Unit 1
+by Gabrielle Davies - Tuesday, 19 November 2024, 1:39 AM
+Using the readings for this unit as a guide, discuss what you see as the role of ethics as it pertains to management and managers. Does management, in your view, help shape the values and ethics of an organisation? What about an organisation’s sustainability efforts and commitment? On whom does the responsibility to consider sustainability fall? Is employee behaviour, ethical or not, a by-product of the organisation's ethical climate? What ideally is the manager's role in helping to create and maintain organisational integrity?
+
+Ethics play a crucial role in management and the responsibilities of managers. Management significantly influences the values and ethics of an organisation. Managers set the tone for ethical behaviour through their actions, decisions, and communication. By demonstrating integrity, fairness, and transparency, managers can foster a culture of trust and ethical conduct within the organisation. This ethical climate, in turn, shapes employee behaviour, as employees often look to their leaders for guidance on what is acceptable and expected.
+
+Sustainability efforts and commitments are also integral to an organisation's ethical framework. The responsibility to consider sustainability falls on everyone within the organisation, but managers play a pivotal role. They are in a position to integrate sustainable practices into the organisation's operations, set goals for reducing environmental impact, and ensure that these goals are met. Managers can also influence the organisation's commitment to sustainability by advocating for policies and practices that promote long-term environmental and social well-being.
+
+Employee behaviour, whether ethical or not, is often a reflection of the organisation's ethical climate. When an organisation prioritizes ethical behaviour and sustainability, employees are more likely to adopt these values in their own actions. Conversely, a lack of emphasis on ethics can lead to unethical behaviour among employees.
+
+Ideally, the manager's role in creating and maintaining organisational integrity involves leading by example, establishing clear ethical guidelines, and fostering an environment where ethical behaviour is recognized and rewarded. Managers should also be proactive in addressing ethical issues and ensuring that the organisation's values are consistently upheld. By doing so, they help build a strong foundation of trust and integrity that supports the organisation's long-term success.
+
+Using your professional experience as a backdrop, provide examples of managers who have demonstrated ethical behaviour (or not) and discuss how this affected the organisation, the employees, etc. You might actively consider and incorporate sustainability-related efforts and behaviours in your analysis and reply.
+
+In my professional experience, I have encountered managers who have both demonstrated and failed to demonstrate ethical behaviour, significantly impacting the organisation and its employees. One notable example of ethical behaviour was a manager who prioritized transparency and fairness in decision-making. This manager consistently communicated openly with the team about project goals, challenges, and changes, fostering a culture of trust and collaboration. By involving employees in decision-making processes and recognizing their contributions, the manager created a positive work environment where employees felt valued and motivated. This ethical approach not only improved team morale but also enhanced productivity and innovation within the organisation.
+
+Conversely, I have also witnessed a manager who failed to uphold ethical standards, leading to negative consequences. This manager often made decisions based on personal interests rather than the organisation's best interests, resulting in favouritism and unfair treatment of employees. The lack of transparency and integrity eroded trust within the team, leading to decreased morale and increased turnover. Employees felt demotivated and disengaged, which ultimately affected the organisation's overall performance and reputation.
+
+In terms of sustainability, the ethical manager actively promoted sustainable practices within the organisation. They encouraged the team to adopt environmentally friendly initiatives, such as reducing waste, conserving energy, and supporting community projects. This commitment to sustainability not only aligned with the organisation's values but also enhanced its reputation as a socially responsible entity. Employees were proud to be part of an organisation that prioritized ethical behaviour and sustainability, further boosting their engagement and loyalty.
+
+In conclusion, managers play a crucial role in shaping the ethical climate and sustainability efforts of an organisation. Ethical behaviour and a commitment to sustainability positively impact employee morale, productivity, and the organisation's overall success. Conversely, unethical behaviour can lead to a toxic work environment, decreased employee engagement, and long-term negative consequences for the organisation.
+
+
+Hello Gabrielle,
+Thank you for your excellent post on the topic. I appreciate your insights into the role of ethics in management and the impact of managers' behavior on the organization and employees. Your examples of managers who demonstrated ethical behavior and those who failed to uphold ethical standards provide valuable insights into the importance of ethical leadership. I agree that ethical behavior and a commitment to sustainability are essential for fostering a positive work environment and enhancing organizational success. Your analysis effectively highlights the influence of managers on organizational integrity and employee morale. Well done!

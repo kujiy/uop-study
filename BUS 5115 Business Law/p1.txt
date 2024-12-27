@@ -1,0 +1,99 @@
+For this assignment review the case of Presidential Pressure - Markkula Center for Applied Ethics (scu.edu) and write a case analysis paper answering the following questions:
+
+Presidential Pressure
+Clare Bartlett
+Tony works for a small company that tests electronics products before they are released to the market. The company performs independent quality assurance tests to certify that the products meet all government regulation standards.
+
+Tony’s company signs a contract with a large cell phone company; this contract is the first major contract the company has received and has the potential to greatly increase their revenue. Tony is then assigned to conduct all the tests on the cell phone company’s latest product.
+
+Tony conducts all the tests and finds that the phone is up to regulation on almost all tests. However, the product fails to meet the regulation requirements for interfering noise transmittance. Tony knows that this test is not always reliable and repeats it a couple more times.
+
+While he is repeating the test, the president of the phone company visits Tony in the lab to see how the testing is going. When Tony tells him that the product is consistently failing one test, the president proceeds to tell him, “There are hundreds of people whose livelihood depends on the release of this new product.” Additionally, he tells Tony he has worked as a test engineer and knows the test is not always accurate, and it would be in everybody’s best interest if Tony could approve the phone.
+
+Tony is shocked that the president would come up to him in lab and imply that he should falsify data. He is unsure of what to do and knows that if he stands up to the president, his company could lose out on the large phone company’s business. But if the product is not certified for release, hundreds of people could lose their jobs.
+
+How should Tony handle this situation?
+
+Clare Bartlett was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.
+
+August 2015
+
+Aug 26, 2015
+--
+
+Abstract
+倫理的意思決定は、倫理的な価値観と法的な規制に基づいて行われるべきです。この論文では、Tonyが直面している倫理的および法的ジレンマに焦点を当て、彼が取る可能性のある2つの行動とその結果を比較して議論します。さらに、倫理的および法的行動の重要性について説明し、Tonyが直面している選択肢に対する倫理的および法的に適切な選択を特定し、その選択に対する倫理的レンズを説明します。
+
+
+
+1.   Identify the ethical and legal issues in the two decision scenarios in the case. Create a 2 X 3 table to state the two possible courses of action Tony can take and the positive and negative implications of each, viewed through the ethical and legal framework.
+
+Action 1: Tony falsifies the data and approves the phone for release.
+Positive Implications:
+Tonyの会社は大手携帯電話会社との契約を履行できる。
+電話会社の収入が増加し数百人の雇用が維持される。
+Tonyの会社はこの実績をもとにさらに多くの契約を獲得する可能性がある。
+
+Negative Implications:
+製品が消費者に危険を及ぼす場合は製造物責任を問われ、企業は法的責任を負う可能性がある。
+データの捏造により会社の評判や株価を損なう。
+電話会社との契約違反により損害賠償訴訟を起こされるリスクがある。
+Tonyは信頼を失い、場合によっては役職や職を失う。
+
+Action 2: Tony refuses to falsify the data and does not approve the phone for release.
+Positive Implications:
+Tonyは職業上の道徳感を遵守し、誠実な行動を取る。
+レギュレーション違反による会社の評判、株価の下落を防ぐ。
+公共の安全と消費者を守る事ができる。
+リスクを未然に防ぐことでTonyは信頼を得る可能性がある。
+
+Negative Implications:
+契約不履行により大手携帯電話会社から損害賠償を求められる可能性がある。
+数百人の雇用が失われる可能性がある。
+Tonyは信頼を失い、辞職などで責任を取る必要があるかもしれない。
+
+
+2.    Discuss the importance of ethical and legal behavior in the context of Tony’s ethical and legal dilemmas.
+
+この文章から、Tonyは改竄を受け入れることに心理的な抵抗を感じていることが読み取れます。しかし、まずTonyがするべきことは、法的および倫理的な観点からの行動を考えることです。倫理は感情と同じではありません。倫理は、正しい行動を取るための基準を提供し、法律はその基準を実行するための枠組みを提供します。そして倫理は法律に従うこととは異なります。法律は倫理から逸脱することがあるため、法律だけを頼りに行動することは倫理的に誤った行動を取る可能性があります。Tonyの場合、法律に従うことはもちろん重要ですが、倫理的な行動を取ることがさらに重要です。
+Tony個人の倫理的な行動の重要性として、まずTonyは自分の職業倫理を守ることが重要です。Tonyの役割は製品のリリース判定をする事であり、レギュレーションに満たない製品を承認することは職業倫理に違反します。データの捏造は法的にも倫理的にも許されない行為であり、Tonyは法律に従い、正直で誠実な行動を取るべきです。製造物の規定は消費者の安全を守るために設けられており、違反には法的措置が取られる可能性があります。Tonyが企業のためにユーザを危険に晒すことは、結果として自社および取引先の企業を危険に晒すことになり矛盾しています。これは企業倫理に対しても同様で、企業は法的規制に従い、消費者の安全を最優先に考えるべきです。
+そして、この大手携帯電話会社の行動は、Tonyに対して不当な圧力をかける行為であり、製品の虚偽表示や優越的地位の濫用に当たります。この依頼自体が法的な問題を発生させているため、Tonyは法的なリスクを避けるためにも断固として拒否するべきです。企業の倫理観の欠如に対して市場は厳しい制裁を与える可能性が高いです。CSRにもあるとおり、企業は社会的責任を果たすべきであり、その社会的責任とはまさに倫理的な行動を取ることです。Tonyは自らの倫理観を守り、正しい行動を取ることで、企業の倫理観を高め、社会的責任を果たすことができます。
+
+3.   State the two choices Tony can make. Identify and explain the ethically and legally sound choice. Which ethical lens is employed to perceive the dimensions of Tony’s choice?
+
+Action 1: Tony falsifies the data and approves the phone for release.
+権利レンズは、個人や企業が持つ権利を重視する倫理的な視点です。今Tonyは行動を選択する権利を有しています。例えば製品のレギュレーションが三十年以上も前に決められた、ユーザにとって実質無害な規定である場合、Tonyは倫理的な観点からもデータの改竄をする権利があると考えられるかもしれません。しかし、権利とは他者に対する正当な要求であり、請求の「正当性」は、請求者だけでなく社会全体が認め、受け入れている何らかの基準に依存します。この例ではレギュレーションがその基準であるため、Tonyにはデータの改竄をする権利はありません。
+実利主義のレンズは、行動の結果を重視し善と悪のバランスを考える倫理的な視点です。もし規定違反の製品が科学的な観点で害を及ぼす可能性が低いと確信できるのであれば、代わりに数百人の雇用を守る判断は合理的な選択と言えるかもしれません。しかし、2つの企業の評判低下や訴訟リスクを考えると、この選択は合理的ではありません。マークラ応用倫理センターは功利主義を道徳的意思決定とすることには困難があると述べており、その理由をさまざまな利益と損害を予測、比較することが困難であると述べています。
+ケア倫理は、人と人の関係性を重視する倫理的な視点です。この例では、Tonyはまず目の前の電話会社社長との関係性を良くしたいと考えるかもしれません。さらに数百人の従業員とも関係を維持することが道徳的に価値があると考えられるかもしれません。マークラ応用倫理センターの興味深い説明では、ケア倫理は時に規則に違反したり、例外を認めることを許容すると述べています。一方で、他者と感情と体を依存し合うことを前提としたこの理論は、義務と動機を生み出すとも述べています。Tonyがどのようなアクションに義務を感じたとしても、ケア倫理が必要とされる道徳的観点はあくまで個人の感情に基づくものであり、法的な規定には基づいていません。そのため、この例ではケア倫理は適切な視点とは言えないでしょう。
+
+Action 2: Tony refuses to falsify the data and does not approve the phone for release.
+正義のレンズは、公正さや平等を重視する倫理的な視点です。この例では、消費者の観点から平等について論じてみよう。ある技術規定を満たした製品A, Bを二人の消費者が購入したとする。実際には製品Aのみが技術要件を満たしていた場合、この消費者たちは平等ではなくなってしまう。このように、平等な選択を阻害する行為は不正義である。Tonyがデータの改竄を拒否することは、消費者の安全を守るために正義を行うことになります。また、法的な規定に従うことは公正さを保つためにも重要です。この例では、正義の視点からTonyの行動は倫理的にも法的にも正しいと言えるでしょう。
+公益のレンズは、社会全体の利益を重視する倫理的な視点です。このレンズはこの議論に最も適切でしょう。この例では、Tonyがデータの改竄を拒否することで、消費者の安全を守るだけでなく、社会全体の利益を守ることになります。製品のリリースによって数百人の雇用が守られる可能性もありますが、改竄が発覚すればそれ以上の雇用に悪影響が及ぶ事が想像されます。このように、公益の視点からTonyの行動は社会全体の利益を守るためにも正しいと言えるでしょう。
+
+
+Conclusion
+法律と倫理がともに同じ方向を向いていないというのは驚くべき事です。そして我々の感情が倫理的な行動を阻むこともあります。倫理は感情とも、法律とも、宗教とも、文化とも、科学とも異なるものです。倫理は、正しい行動を取るための基準を提供し、法律はその基準を実行するための枠組みを提供します。倫理レンズは、個人や組織の行動を選択する際に重要な視点を提供します。何を尊重するかはレンズによって異なるため、現在の状況と適切な予測、比較などを行い、最適なレンズの選択をすることが重要です。Tonyの場合、正義のレンズと公益のレンズが最も適切な視点と言えるでしょう。Tonyはデータの改竄を拒否し、製品のリリースを認めないことで、消費者の安全を守り、社会全体の利益を守ることができます。倫理的意思決定をする際には、この課題のように特定の手順を実行する事が重要です。1. 問題を特定する 2.事実を確認する 3.複数のアクションを評価する 4.アクションを選択し実行する 5.結果を評価し、必要に応じて修正する。このような手順を踏むことで、倫理的な意思決定を継続的に行うことができます。
+
+
+
+--------------------
+
+1.   Identify the ethical and legal issues in the two decision scenarios in the case. Create a 2 X 3 table to state the two possible courses of action Tony can take and the positive and negative implications of each, viewed through the ethical and legal framework.
+
+
+
+
+
+2.    Discuss the importance of ethical and legal behavior in the context of Tony’s ethical and legal dilemmas.
+
+3.   State the two choices Tony can make. Identify and explain the ethically and legally sound choice. Which ethical lens is employed to perceive the dimensions of Tony’s choice?
+
+
+
+Ethics Unwrapped. (n.d.). Corporate Social Responsibility - Ethics Unwrapped. Retrieved on Nov 16, 2024, from https://ethicsunwrapped.utexas.edu/glossary/corporate-social-responsibility
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2014a). Justice and Fairness. Retrieved on Nov 19, 2024, from https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/justice-and-fairness/
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2014b). Calculating Consequences: The Utilitarian Approach - Markkula Center for Applied Ethics. Retrieved on Nov 18, 2024, from https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2014c). Rights - Markkula Center for Applied Ethics. Retrieved on Nov 18, 2024, from https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/rights/
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2014d). The Common Good - Markkula Center for Applied Ethics. Retrieved on Nov 19, 2024, from https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/the-common-good/
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2021). A Framework for Ethical Decision Making. https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2023). Care Ethics - Markkula Center for Applied Ethics. Retrieved on Nov 18, 2024, from https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/care-ethics/care-ethics.html

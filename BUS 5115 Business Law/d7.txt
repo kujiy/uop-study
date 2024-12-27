@@ -1,0 +1,63 @@
+Number of replies: 0
+Discussion Assignment
+Using the readings for this unit as a guide, discuss in at least 300 words, the following.
+How important is the reputation of a business?
+How important is a CEO's reputation to the reputation of the business itself?
+Is it better to have the reputation of being powerful or of being fair? For example, do you want to be insured by a company that always wins, or by an insurance company that is willing to allow the benefit of any doubt?
+Goodwill is the technical word for the asset of a company being worth more than the sum of its parts. How would you measure the Goodwill of a company in dollar figures?
+How important is it that an organization demonstrate social responsibility towards the environment?
+If given the choice, would you opt to invest in a company that is more likely to generate profits or more likely to respond to shareholder concerns for fair trade in supply chain dealings? Please explain why.
+
+
+返信の数 0
+ディスカッション課題
+このユニットのリーディングを参考に、少なくとも300ワードで以下のことを論じてください。
+ビジネスの評判はどの程度重要か？
+CEOの評判はビジネス自体の評判にとってどの程度重要か？
+権力者であるという評判と公正であるという評判のどちらがよいか？例えば、常に勝ち組になる保険会社に入りたいのか、それとも疑わしきは罰する保険会社に入りたいのか。
+のれんとは、専門用語で、企業の資産がその部分の合計よりも価値があることを意味する。企業の「のれん」を金額で表すとしたら？
+組織が環境に対して社会的責任を果たすことがどれほど重要か？
+選択肢を与えられた場合、利益を生み出す可能性の高い企業と、サプライチェーン取引における公正取引に対する株主の懸念に応える可能性の高い企業のどちらに投資しますか？その理由を説明してください。
+
+
+
+
+
+Key Points of Competitive Strategy:
+
+Focus on Industry Analysis: The core of the book lies in analyzing a company's industry environment beyond just direct competitors. Porter introduced the 5-Forces Framework (FFF), which considers:
+Rivalry among existing competitors: Traditional competition within the industry.
+Threat of new entrants: Potential competitors entering the market.
+Bargaining power of buyers: The influence of customers on pricing and product features.
+Bargaining power of suppliers: The influence of suppliers on pricing and input costs.
+Threat of substitute products or services: The availability of alternative options for customers.
+
+
+replutation intelligence
+ CEOは裏方であるべき。CEOが優位人立つと評判が不安定になりリスクぞう
+
+ Why-competitive-strategy-succeeds-.pdf
+
+サプライチェーンのステップは何ですか?
+サプライチェーンの主なステップは次のとおりです。
+
+需要と供給が適切にバランスされるように在庫と製造プロセスを計画する
+最終製品の製造に必要な材料の製造または調達
+部品の組み立てと製品のテスト
+製品を出荷用に梱包するか、後日まで在庫として保管する
+完成品を輸送し、販売業者、小売業者、または消費者に配送します。
+返品された商品に対するカスタマーサービスサポートの提供
+https://www.investopedia.com/terms/s/supplychain.asp
+
+
+What Are the Main Supply Chain Models?
+The supply chain model that a company selects will depend on how the company is structured and its specific needs.
+
+Continuous Flow Model: This traditional supply chain model works well for companies that produce the same products with little variation. The products should be in high demand and require little to no redesign. This lack of fluctuation means managers can streamline production times and keep tight control over inventory. Managers must regularly replenish raw materials to prevent production bottlenecks in a continuous flow model.
+Fast Chain Model: This model works best for companies that sell products based on the latest trends. Businesses that use this model must get their products to market quickly to take advantage of the prevailing trend. They must rapidly move from idea to prototype to production to consumer. Fast fashion is an example of an industry that uses this supply chain model.
+Flexible Model:
+
+
+
+  フェアトレードの批評家は、フェアトレードは自由市場の有益な柔軟性を制約し、フェアトレードによって促進される社会事業のほとんどは小規模な取り組みであるため、十分な影響力がないと主張している。批評家は、フェアトレードは小規模農家の利益を支援し保護するのではなく、「先進国の罪悪感」を煽る以上のことはほとんどしていないと主張している。批評家は、フェアトレード制度にとどまると、収穫量の減少により利益が減少することがある農家のコストが上昇し、また、自分の子供を雇ったり、地域社会で「仕事と引き換えに取引」を提供したりするのではなく、労働者を雇うことを要求する労働規則に従わなければならないと主張している。一部の研究者は、フェアトレードのラベル表示協同組合は利益を上げることができているが、当初は1ポンド当たりの価格が上がるという約束に惹かれた農家は、大きな利益を見いだせていないことを発見した。いずれにせよ、フェアトレード協同組合に販売することで農家が平均的に収入が増えているという証拠はない。
+

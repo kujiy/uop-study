@@ -1,0 +1,277 @@
+# Case Study: Conflicting Clients
+Instructions for Case Analyses
+Case Analyses allow students to apply concepts from the course to business situations. Theories, vocabulary, and examples from the readings should be used. Clear and concise writing shows an ability to directly relate learned material to the Cases. Headings and subheadings should be used to delineate which issue and category is being addressed. Use these guidelines along with the stated assessment criteria to craft your case analyses.
+Relevant Facts –
+(A) Overview of pertinent points.
+(B) Describe the background of the situation or business that is relevant to the ethical problem(s)
+or dilemma(s) of the Case.
+(C) Highlight information that sets the context for analysis.
+Ethical Issues –
+(A) State the ethical problem(s) or dilemma(s)
+(B) Demonstrate a comprehension of ethical concepts. (C) Describe the ethical aspects of the Case.
+Identifying Stakeholders –
+There are always a set of “usual suspects” in a Case, so be sure to list everyone who might be connected. Remember that business decisions have far reaching effects, so consider anyone who might be affected by the ethical considerations of the Case.
+Possible Alternatives –
+(A) Identify solutions can be described for each ethical issue identified.
+(B) List all solutions and approaches to identified ethical issues.
+(C) Alternatives may be drawn from the Case, Readings, or personal experience including outside readings
+Ethics of the Alternatives –
+(A) Critically assess the alternatives identified for possible recommendation. (B) Describe the ethical implications of each alternative.
+(C) Consider external and internal aspects of ethical proposals.
+(D) Apply the “utilitarian” perspective (costs and benefits).
+1. Which of the alternatives would provide the greatest benefit to the greatest number?
+2. What are the costs in each of the alternatives?
+3. Which of the alternatives has the highest “cost” factor associated with it?
+4. Do the benefits of honesty at all costs outweigh the benefits of obeying the directive?
+of a supervisor?
+(E) Apply the “rights” perspective.
+1. What does the stakeholder have the right to expect?
+2. Which of the alternatives would you want if you were each of the stakeholders? (F) Apply the “justice” perspective (benefits and burdens).
+1. Which alternative distributes the benefits and burdens most fairly among the stakeholders?
+2. Which stakeholders are most affected by each alternative?
+
+Practical Constraints –
+(A) Possible obstacles to the implementation of the identified alternatives. (B) Ethical problems that may come up in executing each alternative.
+(C) What unwanted outcomes may result from each alternative?
+(D) What aspects of the market might obstruct each alternative?
+Specific Action –
+(A) Make a recommendation
+(B) Analysis should provide context for whatever is recommended. (C) Support recommendations with the readings or other literature.
+Writing Skill –
+Students, teachers, employees, managers, and even corporations are judged by their ability to communicate. Sadly, communication is somewhat dependent upon the form of presentation, and while it is unfair to penalize a writer for not having a native facility with the language they are using, it is fair to reward a writer for presenting ideas in an organized, and understandable fashion. Again, use obvious headings and subheadings. Remember, less is more. Executive Summaries present items summarily. Legal briefs are called “brief” for a reason. Concise and eloquent (not prosaic or elaborate) writing will be rewarded.
+Structural Requirements
+Using outside resources is encouraged and additional readings round out a student’s understanding of the issues. Use the APA style to identify References used in the analysis. All ideas come from somewhere, so it is fair to ask writers to disclose their sources.
+Extra Credit
+Thinking outside of the box in this context should be rewarded, not penalized. Don't be afraid to exercise the imagination, and share a unique vision of the Case.
+
+
+# Written Assignment Unit 2
+
+Use the Instructions for Case Analyses to craft a response to this case, articulating the main issues and ethical dilemma.   Review the assessment criteria below before you begin writing.
+
+Case Study: Conflicting Clients
+
+Topic: Auditing (Confidentiality, Misrepresentation of Facts)
+
+People Involved:
+
+Jennifer Grace, First year member of her CPA firm’s management group
+Tom Ward, CFO of Fantastic Developments, Inc., a client
+While reviewing the current-year audit working papers of Coshocton National Bank (CNB), the engagement manager, Jennifer Grace, noted something curious. In the working papers related to loan valuation, Jennifer saw that the commercial loan of Fantastic Developments had been randomly selected for confirmation but that Fantastic had not responded to either the initial or second confirmation request. The audit staff disposed of this “loose end” by alternate procedures: examining cash collections (which had become somewhat sporadic) and vouching to underlying loan documentation, including a set of recent (unaudited) financial statements that showed Fantastic’s solid financial position and operating profitability.
+
+Jennifer noted this reference to Fantastic Developments because this private company was also a client of her firm. In fact, Jennifer had served as the audit senior on Jennifer noted this reference to Fantastic Developments because this private company was also a client of her firm. In fact, Jennifer had served as the audit senior on the prior-year audit of Fantastic. She knew that the company had been struggling for a couple of years and had experienced recurring operating losses. Her knowledge of Fantastic did not reconcile with the discussion in the audit working papers related to the financial statements furnished to the bank.
+
+When Jennifer contacted Fantastic’s CFO, Tom Ward, and inquired about the company’s apparently miraculous turnaround, he was noncommittal and unhelpful. Tom replied that business had picked up. He apologized for not calling Jennifer’s firm himself because he had been so busy, and then he told her that Fantastic had decided to engage another CPA firm for its accounting and auditing needs. Although confused, Jennifer obviously couldn’t reject the possibility that this abrupt dismissal was a direct consequence of her inquiry.
+
+As a result, Jennifer wonders whether the financial statements which Fantastic furnished to the bank as a basis for a loan application are fraudulent. The bank apparently has no such suspicion, however.
+
+Written Assignment Requirements
+Submit a written paper which is 2-3 pages in length exclusive of reference page and that is double-spaced. The paper should cite sources to support your ideas. Be sure to review the assessment criteria below before beginning your paper. Cite any reference(s) you use in the preparation of your essay using proper APA format.
+Written Assignment Peer Assessment
+In the unit following the submission of your written assignment, you will peer assess three (3) of your classmates’ assignments according to the instructions found in the Assessment Form. During this peer assessment period, you are expected to provide details in the feedback section of the Assessment Form, indicating why you awarded the grade that you did to your peer. The written assignment grade is comprised of a combination of your submission (90%) and your peer assessments (10%).
+Written Assignment Peer Assessment Rubric
+For this assignment, your peers will be evaluating your work with the following criteria.
+Identifies all the relevant facts of the case.
+Articulates overarching ethical issues including the extent of Jennifer's responsibility to take action; how the interests of the firm (and stockholders) can be balanced against the environmental interests; what obligation the company has to future generations and citizens.
+Identifies all stakeholders.
+poses possible alternatives and ethics of each alternative.  Paper should explore the possible alternatives and ethics from the Utilitarian Perspective, the Rights Perspective, or the Justice Perspective
+identifies all practical constraints
+recommends a specific action Jennifer should take
+is of high quality, writing is clear and professional
+conforms to the structural requirements including APA style guidelines for References.
+
+
+
+
+
+
+
+----------
+Abstract
+This paper focuses on an ethical dilemma facing the audit team of Jennifer's accounting firm. Jennifer suspects that the financial statements submitted by Fantastic Developments, Inc. may be fraudulent, but the bank has no such suspicion. Jennifer believes that Fantastic Developments, Inc. may be deceiving the bank. This paper will discuss the possible actions Jennifer might take and compare their consequences in accordance with the scheme of ethical decision making. It also explains the importance of ethical and legal behavior regarding AS（Auditing Standards）and identifies the ethically and legally appropriate choices for the options Jennifer faces.
+
+Case Overview
+The story on the agenda is often ambiguous, so let's get the story straight first. Jennifer is an auditor for an accounting firm that has both CNB and Fantastic Developments. as clients. Jennifer was responsible for Fantastic's audit in the previous year and is currently reviewing CNB's audit working papers. Fantastic Developments had submitted financial statements to CNB and applied for a loan, which are not consistent with Jennifer's knowledge. Tom Ward, Fantastic's CFO, gives a vague answer to Jennifer's inquiry and informs her that they have decided to hire another accounting firm. Jennifer believes that Fantastic Developments. may be cheating the bank.
+Fantastic development did not respond to questions from the audit staff, but did not specify which organization this audit staff member is from. For the purposes of this paper, we will assume that the audit team from the accounting firm asked the question. We assume that the materials used by the audit staff for the alternate procedures are the financial statements submitted by Fantastic Developments to CNB.
+
+Ethical Decision-Making
+When making ethical decisions in situations such as the one on this agenda, it is important to follow certain steps: 1. identify the problem 2. review the facts 3. evaluate multiple actions 4. select and implement the action 5. evaluate the results and modify as necessary. These steps will help ensure ongoing ethical decision-making. Steps 4 and beyond cannot be performed in this assignment, so steps 1 through 3 are performed.
+
+1. identify the problem
+The ethical issue Jennifer is facing is that the financial statements submitted by Fantastic Developments to the CNB may be fraudulent. Jennifer suspects that Fantastic Developments. may be cheating the bank. This issue is related to the fact that Jennifer was in charge of auditing Fantastic's prior year and that Fantastic's financial situation was deteriorating.
+
+2. checking the facts
+Jennifer's opinion involves a great deal of speculation. It has not been determined whether Fantastic Developments is cheating the bank. It is also unclear why Tom Ward decided to hire another accounting firm. Jennifer suspects that Fantastic's financial statements may be fraudulent, but there is no evidence of this; it is also speculative that CNB has no doubts about Fantastic's financial statements. The following is a list of the facts as currently known.
+
+Fantastic Developments is making a loan from CNB.
+CNB has received Fantastic's financial statements showing that Fantastic Developments is stable.
+Jennifer was in charge of Fantastic's previous year's audit and Fantastic's financial situation had deteriorated
+Fantastic Developments did not respond to questions from the accounting firm.
+Tom Ward, Fantastic's CFO, gave Jennifer vague answers.
+Tom Ward decided to hire another accounting firm
+
+The Audit Standards (AU) issued by the AICPA states that in assessing the materiality of any illegal activity of which the auditor becomes aware, both the quantitative and qualitative materiality of the activity must be considered. This information alone cannot be used to determine whether Fantastic Developments. is defrauding the bank.
+
+3. evaluate multiple actions
+Consider the advantages and disadvantages of two separate actions that Jennifer could take.
+
+If she files an accusation
+Advantages:.
+Can increase the credibility of the accounting firm
+Can prevent fraud at Fantastic Developments.
+Protect the interests of CNB
+Protects professional ethics
+Disadvantages:.
+May cause legal problems due to leakage of client information.
+Even if there are no criminal charges, Fantastic Developments may file a lawsuit against you.
+May damage the company's relationship with Fantastic Developments
+
+If you do not file a complaint
+Advantages: 1.
+Maintain relationship with Fantastic Developments
+Avoid legal issues
+Disadvantage
+Allowing Fantastic Developments to continue its fraudulent activities
+Cannot protect CNB's interests
+If Fantastic's fraud is discovered, the credibility of the accounting firm may be damaged
+Would be unprofessional and unethical behavior
+
+
+Professional Ethics for Auditors
+The Attestation Standards (AS) issued by the American Institute of Certified Public Accountants (AICPA) states that auditors are required to exercise professional skepticism to exercise due care in their profession. Jennifer's skepticism is consistent with this standard and is justified by professional ethics.AS 2405 Illegal acts by clients states that if the auditor becomes aware of information regarding possible illegal acts, the auditor should obtain sufficient other information sufficient to assess the nature of the conduct and its impact on the financial statements. Jennifer should conduct a more in-depth investigation to gather facts.
+Joseph J. Tapajana, CPA, states that if a CPA suspects fraud by a client, the CPA should alert the client of the concern and make an effort to correct the problem. Importantly, however, Jennifer is not obligated to file charges under either SOX or AICPA standards; both AS 2405 and Tapajana state that a CPA should consider whether to sever ties with the client if the client refuses to take appropriate action. The CPA must consider whether to sever its relationship with the client if the client refuses to take appropriate action. For example, if a CPA discovers an error in a document previously submitted to the taxing authority, the CPA is required to notify the client of the consequences of not correcting the error, but is not required to notify the taxing authority if the client chooses not to correct the error. Thus, the AICPA recognizes that it is generally not permitted to disclose confidential client information without the client's consent. On the other hand, however, Tapajana also states that disclosure without consent may be appropriate where a violation of criminal law has occurred. In any event, Jennifer suspects misconduct by Fantastic Developments and must take action to resolve this issue. The first step is to gather additional information to determine the seriousness of the matter.
+
+Auditor's Responsibility
+AS 2405 clearly outlines the auditor's responsibilities in these situations. In summary, it states that it is not the auditor's responsibility to disclose illegal activity to parties other than the client, and that such disclosure would violate the auditor's ethical or legal duty of confidentiality. On the other hand, however, it also states that there may be an obligation to notify non-client parties if that fact would have a material effect on the financial statements. In particular, if the successor auditor has made inquiries in accordance with AS 2610, Initial Audit - Communications Between Predecessor and Successor Auditors, it is permissible to disclose the facts to the successor auditor. This would be a great hope for Jennifer.
+While auditors are not obligated to file charges, they are obligated to perform a proper audit, and AS 2405 requires auditors to obtain a written statement from management that no violation or potential violation of law or regulation exists in the financial statements. Jennifer must, at a minimum, fulfill this responsibility.
+
+Actions Jennifer should take
+Because of the complexity of the conflict between the auditor's ethical and legal confidentiality obligations, AS 2405 suggests that the auditor consult with legal counsel before discussing illegal activity with parties outside the client. By gathering additional information and consulting with the accounting firm's legal counsel, Jennifer can take appropriate steps to determine the seriousness of the illegal conduct. While we feel that ethically you should file charges immediately, considering professional ethics, legal responsibility, and ethical liability, the best option is to gather additional information and consult with legal counsel as we have discussed. having suspicions about Fantastic development is important, but legal issues However, it is important to be cautious in order to avoid legal problems.
+
+
+Conclusion
+This paper has focused on an ethical dilemma facing the audit team at Jennifer's accounting firm. In accordance with the scheme of ethical decision making, we discussed the possible actions Jennifer might take and compared their consequences. In addition, we explained the importance of ethical and legal actions in accordance with the AICPA's AS and identified the ethically and legally appropriate choices for the options Jennifer faced. By gathering additional information and consulting with legal counsel, Jennifer can take appropriate steps to determine the seriousness of the illegal conduct. In keeping with professional ethics and industry standards, Jennifer is required not to overlook this issue and take appropriate action.
+
+Translated with DeepL.com (free version)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------
+ケーススタディ:対立するクライアント
+
+トピック:監査 (機密保持、事実の不実表示)
+
+関係者:
+
+ジェニファー・グレース、公認会計士事務所の経営グループに1年目参加
+クライアントであるFantastic Developments, Inc.のCFO、トム・ワード氏
+コショクトン国立銀行 (CNB) の今年度の監査作業書類をレビューしているとき、エンゲージメント マネージャーのジェニファー グレースは、奇妙なことに気付きました。ローン評価に関する作業書類で、ジェニファーは、ファンタスティック デベロップメントの商業ローンが確認のためにランダムに選択されていたものの、ファンタスティックは最初の確認依頼にも 2 回目の確認依頼にも応答していなかったことに気付きました。監査スタッフは、この「未解決の問題」を、代替手順で解決しました。つまり、現金回収 (やや散発的になっていた) を調べ、ファンタスティックの堅実な財務状況と営業利益率を示す最近の (監査されていない) 財務諸表を含む、基礎となるローン文書を保証しました。
+
+ジェニファーがファンタスティック デベロップメントへの言及に注目したのは、この非上場企業も彼女の会社の顧客だったからです。実際、ジェニファーはファンタスティック デベロップメントの前年度の監査で監査シニアを務めていました。彼女は、この会社が数年間苦戦しており、継続的な営業損失を経験していたことを知っていました。ファンタスティックに関する彼女の知識は、銀行に提出された財務諸表に関連する監査作業書類での議論と一致しませんでした。
+
+ジェニファーがファンタスティック社の CFO であるトム・ワードに連絡し、同社の奇跡的な業績回復について尋ねたところ、彼は曖昧な態度で役に立たなかった。トムは、ビジネスが回復していると答えた。彼は、忙しすぎてジェニファーの会社に自分で電話しなかったことを詫び、ファンタスティック社が会計と監査のニーズのために別の公認会計士事務所と契約することに決めたと伝えた。ジェニファーは混乱していたが、この突然の解雇が彼女の問い合わせの直接的な結果である可能性を否定できなかった。
+
+その結果、ジェニファーは、ファンタスティックが融資申請の根拠として銀行に提出した財務諸表が不正なのではないかと疑う。しかし、銀行はどうやらそのような疑いを持っていないようだ。
+
+
+
+
+
+銀行はFが安定していると思っているからローンを貸した
+Fは嘘をついている可能性がある
+JはCNB, F 両方の監査人
+片方の機密をもう片方に漏らすことはできない
+
+
+Abstract
+この紙ではジェニファーが所属する会計事務所の監査チームが直面している倫理的ジレンマに焦点を当てます。ファンタスティック デベロップメント社が提出した財務諸表が不正である可能性があるとジェニファーが疑っているが、銀行はそのような疑いを持っていない。ジェニファーは、ファンタスティック デベロップメント社が銀行を騙しているのではないかと考えています。この紙では、倫理的意思決定のスキームに則って、ジェニファーが取る可能性のある行動とその結果を比較して議論します。さらに、倫理的および法的行動の重要性について説明し、ジェニファーが直面している選択肢に対する倫理的および法的に適切な選択を特定します。
+
+Case Overview
+議題となったストーリーは曖昧な部分が多いため、まずは事実を整理しましょう。ジェニファーは会計事務所の監査員であり、この会計事務所はCNBとファンタスティック デベロップメント社の両方をクライアントとして抱えています。ジェニファーは、前年度のファンタスティック デベロップメント社の監査を担当しており、現在はCNBの監査作業書類をレビューしています。ファンタスティック デベロップメント社はCNBに財務諸表を提出してローンを申請していましたが、その内容がジェニファーの知識と一致していません。ファンタスティック デベロップメント社のCFOであるトム・ワードは、ジェニファーの問い合わせに対して曖昧な回答をし、別の会計事務所を雇うことを決定したことを伝えます。ジェニファーは、ファンタスティック デベロップメント社が銀行を騙しているのではないかと考えています。
+Fantastic development社は監査スタッフからの質問に対して回答をしませんでしたが、この監査スタッフがどの組織の誰であるかは明言されていません。この紙では、会計事務所の監査チームがその質問をしたものと仮定します。監査スタッフがalternate proceduresに利用した資料は、ファンタスティック デベロップメント社がCNBに対して提出した財務諸表であるとします。
+
+倫理的意思決定
+この議題のような状況で倫理的に意思決定をする際には、特定の手順を実行する事が重要です。1. 問題を特定する 2.事実を確認する 3.複数のアクションを評価する 4.アクションを選択し実行する 5.結果を評価し、必要に応じて修正する。このような手順を踏むことで、倫理的な意思決定を継続的に行うことができます。このアサインメントでは4以降のステップは実行できないため、1から3のステップを実行します。
+
+1. 問題を特定する
+ジェニファーが直面している倫理的問題は、ファンタスティック デベロップメント社がCNBに提出した財務諸表が不正である可能性があることです。ジェニファーは、ファンタスティック デベロップメント社が銀行を騙しているのではないかと疑っています。この問題は、ジェニファーがファンタスティック デベロップメント社の前年度の監査を担当していたことと、ファンタスティック デベロップメント社の財務状況が悪化していたことに関連しています。
+
+2. 事実を確認する
+ジェニファーの考えには多数の推測が含まれています。ファンタスティック デベロップメント社が銀行を騙しているかどうかは確定していません。トム・ワードが別の会計事務所を雇うことを決定した理由も不明です。ジェニファーは、ファンタスティック デベロップメント社の財務諸表が不正である可能性を疑っていますが、その証拠はありません。CNBがファンタスティック デベロップメント社の財務諸表に疑念を持っていないというのも推測の域を出ませんん。以下に現在わかっている事実をリストアップします。
+
+ファンタスティック デベロップメント社はCNBからローンをしている
+CNBはファンタスティック デベロップメント社の安定性を示す財務諸表を受け取っている
+ジェニファーはファンタスティック デベロップメント社の前年度の監査を担当しており、その財務状況は悪化していた
+ファンタスティック デベロップメント社は会計事務所からの質問に答えなかった
+ファンタスティック デベロップメント社のCFOであるトム・ワードは、ジェニファーに曖昧な回答をした
+トム・ワードは別の会計事務所を雇うことを決定した
+
+AICPAが発行したAU(Audit Standards)では、監査人が気付いた違法行為の重要性を評価する際、その行為の量的および質的重要性の両方を考慮する必要があるとしています。この情報だけでは、ファンタスティック デベロップメント社が銀行を騙しているかどうかを判断することはできません。
+
+3. 複数のアクションを評価する
+ジェニファーが取りうる行動を2つに分け、メリットとデメリットを考察します。
+
+告発をする場合
+メリット:
+会計事務所の信頼性を高めることができる
+ファンタスティック デベロップメント社の不正を防ぐことができる
+CNBの利益を守ることができる
+職業倫理を守ることができる
+デメリット:
+顧客情報の漏洩により法的な問題が発生する可能性がある。
+刑事罰に問われないとしても、ファンタスティック デベロップメント社から訴訟を起こされる可能性がある
+ファンタスティック デベロップメント社との関係が悪化する可能性がある
+
+告発をしない場合
+メリット:
+ファンタスティック デベロップメント社との関係を維持できる
+法的な問題を回避できる
+デメリット:
+ファンタスティック デベロップメント社の不正を放置することになる
+CNBの利益を守ることができない
+ファンタスティック デベロップメント社の不正が発覚した場合、会計事務所の信頼性が損なわれる可能性がある
+職業倫理に反する行動を取ることになる
+
+
+監査人の職業倫理
+米国公認会計士協会（AICPA）が発行するAS(Attestation Standards) では、監査人は、職業上の正当な注意を払うために、職業上の懐疑心を働かせることが求められるとされています。ジェニファーの懐疑心はこの基準に沿ったものであり、職業倫理に照らし合わせても正当なものです。AS2405 Illegal acts by clients では、監査人が違法行為の可能性に関する情報を知った場合、監査人はその行為の性質や財務諸表への影響を評価するのに十分なその他の情報を把握する必要があるとしています。ジェニファーはより詳細な調査を行なって事実を収集するべきです。
+ジョセフ・J・タパジャナ公認会計士はCPA がクライアントの不正行為を疑った場合、CPA はクライアントに懸念を警告し、問題を修正する努力をするべきだと述べています。しかし重要な点は、SOX法においてもAICPAの基準においても、ジェニファーには告発をする義務はないということです。AS 2405もタパジャナも、クライアントが適切な措置を取ることを拒否した場合はCPA はクライアントとの関係を断つかどうかを検討する必要があるとしています。例えば、CPA が税務当局に以前提出した文書に誤りを発見した場合、CPA は誤りを訂正しない場合の結果をクライアントに通知する必要があるが、クライアントが誤りを訂正しないことを選択した場合は税務当局に通知する必要はないと規定しています。このように、AICPAはクライアントの同意なしに機密クライアント情報を開示することは一般に認められていないことを認識しています。しかし一方で、タパジャナは刑法違反が発生した場合、同意なしに開示することが適切な場合もあるとも述べています。いずれにしても、ジェニファーはファンタスティック デベロップメント社の不正行為を疑っているため、この問題を解決するために行動を起こす必要があります。その第一歩は重大性を判定するための追加情報を収集することです。
+
+監査人の責任
+AS2405は、このような状況での監査人の責任をはっきりと示しています。要約すると、クライアント以外の関係者に違法行為を開示することは監査人の責任ではなく、またそのような開示は、監査人の倫理的または法的守秘義務に違反すると述べられています。しかし一方で、その事実が財務諸表に重大な影響を及ぼすのであれば、クライアント以外の関係者に通知する義務が存在する可能性があるとも述べています。特に後任監査人がAS 2610 「初回監査-前任監査人と後任監査人の間のコミュニケーション」に従って問い合わせを行った場合は後任監査人へ事実を開示することが認められています。これはジェニファーにとって大きな希望となるでしょう。
+監査人には告発の義務はありませんが、適切な監査をすることは義務となります。AS2405は、財務諸表に法律や規則の違反または違反の可能性が存在しないことについて、経営者から書面による説明を取得することを監査人に求めています。ジェニファーは少なくとも、この責任は果たさなければなりません。
+
+ジェニファーが取るべきアクション
+AS2405は監査人の倫理的および法的守秘義務との衝突は複雑であるため、監査人はクライアント外部の当事者と違法行為について話し合う前に法律顧問に相談することを提案しています。ジェニファーは追加の情報を収集し、会計事務所の法律顧問と相談することで、違法行為の重大性を判断するための適切な措置を講じることができます。倫理的にはすぐに告発をするべきだと感じるが、職業倫理、法的責任、および倫理的責任を考慮すると、これまで述べたように追加の情報を収集し、法律顧問と相談することが最善の選択肢です。Fantastic developmentへの疑念を持つことは重要ですが、法的な問題を避けるためには慎重に行動する必要があります。
+
+
+Conclusion
+この紙では、ジェニファーが所属する会計事務所の監査チームが直面している倫理的ジレンマに焦点を当てました。倫理的意思決定のスキームに則って、ジェニファーが取る可能性のある行動とその結果を比較して議論しました。さらに、AICPAのASに則って倫理的および法的行動の重要性について説明し、ジェニファーが直面している選択肢に対する倫理的および法的に適切な選択を特定しました。ジェニファーは、追加の情報を収集し、法律顧問と相談することで、違法行為の重大性を判断するための適切な措置を講じることができます。職業倫理及び業界基準に則って、ジェニファーはこの問題を見過ごさず、適切な行動を起こすことが求められます。
+
+
+
+Reference
+PCAOB. (2024).  AS 2405: Illegal Acts by Clients | PCAOB . Retrieved on Nov 28, 2024, from https://pcaobus.org/oversight/standards/auditing-standards/details/AS2405
+PCAOB. (n.d.) AU Section 317 - Illegal Acts by Clients | PCAOB . Retrieved on Nov 27, 2024, from https://pcaobus.org/oversight/standards/archived-standards/pre-reorganized-auditing-standards-interpretations/details/AU317
+Tapajna,, J J. (2018). Ethics rule would require CPAs to discuss suspected illegal acts with clients. Retrieved on Nov 28, 2024, from https://www.thetaxadviser.com/issues/2018/feb/ethics-rule-suspected-illegal-acts-clients.html
+Velasquez, M, Moberg, D, Meyer, M, Shanks, T, McLean, M. R, DeCosse, D, Andre, C, Hanson, K. O, Raicu, I & Kwan, J. (2021). A Framework for Ethical Decision Making. https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/
